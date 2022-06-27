@@ -1,1 +1,192 @@
-{}
+{
+  "Core": {
+    "Colours": {
+      "Primary 500": {
+        "value": "#2f0db9",
+        "type": "color"
+      },
+      "Primary 400": {
+        "value": "#6f55d6",
+        "type": "color"
+      },
+      "Primary 300": {
+        "value": "#a192df",
+        "type": "color"
+      },
+      "Primary 200": {
+        "value": "#d0c9ef",
+        "type": "color"
+      },
+      "Primary 100": {
+        "value": "#f5f1ff",
+        "type": "color"
+      },
+      "Primary 050": {
+        "value": "#f5f4fa",
+        "type": "color"
+      },
+      "Primary Darker": {
+        "value": "#210062",
+        "type": "color"
+      },
+      "Error 500": {
+        "value": "#f2453d",
+        "type": "color"
+      },
+      "Error 400": {
+        "value": "#f6827c",
+        "type": "color"
+      },
+      "Error 300": {
+        "value": "#f8aba7",
+        "type": "color"
+      },
+      "Error 200": {
+        "value": "#fcd5d3",
+        "type": "color"
+      },
+      "Error 100": {
+        "value": "#feefee",
+        "type": "color"
+      },
+      "Error Darker": {
+        "value": "#c0332c",
+        "type": "color"
+      },
+      "Warning 500": {
+        "value": "#f2a13d",
+        "type": "color"
+      },
+      "Warning 400": {
+        "value": "#f5b96e",
+        "type": "color"
+      },
+      "Warning 300": {
+        "value": "#f8cf9d",
+        "type": "color"
+      },
+      "Warning 200": {
+        "value": "#fbe7ce",
+        "type": "color"
+      },
+      "Warning 100": {
+        "value": "#fef6ec",
+        "type": "color"
+      },
+      "Secondary 500": {
+        "value": "#31d0aa",
+        "type": "color"
+      },
+      "Secondary 400": {
+        "value": "#64dcbf",
+        "type": "color"
+      },
+      "Secondary 300": {
+        "value": "#98e8d4",
+        "type": "color"
+      },
+      "Secondary 200": {
+        "value": "#cbf3ea",
+        "type": "color"
+      },
+      "Secondary 100": {
+        "value": "#eafaf6",
+        "type": "color"
+      },
+      "Secondary Darker": {
+        "value": "#1fa081",
+        "type": "color"
+      }
+    },
+    "Shades": {
+      "50": {
+        "value": "#fafbfb",
+        "type": "color"
+      },
+      "100": {
+        "value": "#f5f6f7",
+        "type": "color"
+      },
+      "200": {
+        "value": "#ebedf0",
+        "type": "color"
+      },
+      "300": {
+        "value": "#cdd1d9",
+        "type": "color"
+      },
+      "400": {
+        "value": "#a8afbd",
+        "type": "color"
+      },
+      "500": {
+        "value": "#676f7d",
+        "type": "color"
+      },
+      "600": {
+        "value": "#2f343f",
+        "type": "color"
+      },
+      "700": {
+        "value": "#1c252e",
+        "type": "color"
+      },
+      "800": {
+        "value": "#11171c",
+        "type": "color"
+      },
+      "White": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Black": {
+        "value": "#000000",
+        "type": "color"
+      }
+    },
+    "Chart Colours": {
+      "Blue": {
+        "value": "#4285f4",
+        "type": "color"
+      },
+      "Red": {
+        "value": "#f04d40",
+        "type": "color"
+      },
+      "Green": {
+        "value": "#0d9d58",
+        "type": "color"
+      },
+      "Lime": {
+        "value": "#b8ce2e",
+        "type": "color"
+      },
+      "Turqoise": {
+        "value": "#25c3d7",
+        "type": "color"
+      },
+      "Orange": {
+        "value": "#f5b400",
+        "type": "color"
+      },
+      "Coral": {
+        "value": "#ff7042",
+        "type": "color"
+      },
+      "Purple": {
+        "value": "#ab47bc",
+        "type": "color"
+      },
+      "Night": {
+        "value": "#5d6bc0",
+        "type": "color"
+      },
+      "Pink": {
+        "value": "#f06292",
+        "type": "color"
+      }
+    }
+  },
+  "Altura": {},
+  "$themes": []
+}
