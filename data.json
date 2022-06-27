@@ -571,6 +571,17 @@
       "type": "borderWidth"
     }
   },
-  "Altura": {},
+  "Altura": {
+    "Page title": {
+      "value": {
+        "fontFamily": "{font-family-inter}",
+        "fontWeight": "{fontweight-semibold}",
+        "lineHeight": "{lineHeights-40}",
+        "fontSize": "{fontsize-32}",
+        "letterSpacing": "{letterspacing--2,1}"
+      },
+      "type": "typography"
+    }
+  },
   "$themes": []
 }
