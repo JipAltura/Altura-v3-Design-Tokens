@@ -357,6 +357,122 @@
     "font-family-inter": {
       "value": "Inter",
       "type": "fontFamilies"
+    },
+    "radii-2": {
+      "value": "2",
+      "type": "borderRadius"
+    },
+    "radii-4": {
+      "value": "4",
+      "type": "borderRadius"
+    },
+    "radii-6": {
+      "value": "6",
+      "type": "borderRadius"
+    },
+    "radii-8": {
+      "value": "8",
+      "type": "borderRadius"
+    },
+    "radii-12": {
+      "value": "12",
+      "type": "borderRadius"
+    },
+    "radii-16": {
+      "value": "16",
+      "type": "borderRadius"
+    },
+    "radii-20": {
+      "value": "20",
+      "type": "borderRadius"
+    },
+    "radii-24": {
+      "value": "24",
+      "type": "borderRadius"
+    },
+    "radii-32": {
+      "value": "32",
+      "type": "borderRadius"
+    },
+    "radii-40": {
+      "value": "40",
+      "type": "borderRadius"
+    },
+    "radii-64": {
+      "value": "64",
+      "type": "borderRadius"
+    },
+    "lineheight-16": {
+      "value": "16",
+      "type": "lineHeight"
+    },
+    "lineheight-20": {
+      "value": "20",
+      "type": "lineHeight"
+    },
+    "lineheight-24": {
+      "value": "24",
+      "type": "lineHeight"
+    },
+    "lineheight-32": {
+      "value": "32",
+      "type": "lineHeight"
+    },
+    "lineheight-40": {
+      "value": "40",
+      "type": "lineHeight"
+    },
+    "lineheight-48": {
+      "value": "48",
+      "type": "lineHeight"
+    },
+    "lineheight-56": {
+      "value": "56",
+      "type": "lineHeight"
+    },
+    "lineheight-64": {
+      "value": "64",
+      "type": "lineHeight"
+    },
+    "lineheight-72": {
+      "value": "72",
+      "type": "lineHeight"
+    },
+    "lineheight-80": {
+      "value": "80",
+      "type": "lineHeight"
+    },
+    "lineheight-96": {
+      "value": "96",
+      "type": "lineHeight"
+    },
+    "lineheight-104": {
+      "value": "104",
+      "type": "lineHeight"
+    },
+    "lineheight-112": {
+      "value": "112",
+      "type": "lineHeight"
+    },
+    "lineheight-120": {
+      "value": "120",
+      "type": "lineHeight"
+    },
+    "lineheight-140": {
+      "value": "140",
+      "type": "lineHeight"
+    },
+    "lineheight-160": {
+      "value": "160",
+      "type": "lineHeight"
+    },
+    "lineheight-200": {
+      "value": "200",
+      "type": "lineHeight"
+    },
+    "lineheight-232": {
+      "value": "232",
+      "type": "lineHeight"
     }
   },
   "Altura": {},
