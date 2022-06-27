@@ -537,6 +537,38 @@
     "letterspacing-1,6": {
       "value": "1.6%",
       "type": "letterSpacing"
+    },
+    "fontweight-bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "fontweight-semibold": {
+      "value": "Semi bold",
+      "type": "fontWeights"
+    },
+    "fontweight-medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "fontweight-regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "borderwidth-0,5": {
+      "value": "0.5",
+      "type": "borderWidth"
+    },
+    "borderwidth-1": {
+      "value": "1",
+      "type": "borderWidth"
+    },
+    "borderwidth-1,5": {
+      "value": "1.5",
+      "type": "borderWidth"
+    },
+    "borderwidth-2": {
+      "value": "2",
+      "type": "borderWidth"
     }
   },
   "Altura": {},
