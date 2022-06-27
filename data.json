@@ -353,6 +353,10 @@
     "fontsize-200": {
       "value": "200",
       "type": "fontSizes"
+    },
+    "font-family-inter": {
+      "value": "Inter",
+      "type": "fontFamilies"
     }
   },
   "Altura": {},
