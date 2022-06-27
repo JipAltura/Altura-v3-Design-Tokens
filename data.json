@@ -402,77 +402,141 @@
       "value": "64",
       "type": "borderRadius"
     },
-    "lineheight-16": {
+    "lineHeights-16": {
       "value": "16",
-      "type": "lineHeight"
+      "type": "lineHeights"
     },
-    "lineheight-20": {
+    "lineHeights-20": {
       "value": "20",
-      "type": "lineHeight"
+      "type": "lineHeights"
     },
-    "lineheight-24": {
+    "lineHeights-24": {
       "value": "24",
-      "type": "lineHeight"
+      "type": "lineHeights"
     },
-    "lineheight-32": {
+    "lineHeights-32": {
       "value": "32",
-      "type": "lineHeight"
+      "type": "lineHeights"
     },
-    "lineheight-40": {
+    "lineHeights-40": {
       "value": "40",
-      "type": "lineHeight"
+      "type": "lineHeights"
     },
-    "lineheight-48": {
+    "lineHeights-48": {
       "value": "48",
-      "type": "lineHeight"
+      "type": "lineHeights"
     },
-    "lineheight-56": {
+    "lineHeights-56": {
       "value": "56",
-      "type": "lineHeight"
+      "type": "lineHeights"
     },
-    "lineheight-64": {
+    "lineHeights-64": {
       "value": "64",
-      "type": "lineHeight"
+      "type": "lineHeights"
     },
-    "lineheight-72": {
+    "lineHeights-72": {
       "value": "72",
-      "type": "lineHeight"
+      "type": "lineHeights"
     },
-    "lineheight-80": {
+    "lineHeights-80": {
       "value": "80",
-      "type": "lineHeight"
+      "type": "lineHeights"
     },
-    "lineheight-96": {
+    "lineHeights-96": {
       "value": "96",
-      "type": "lineHeight"
+      "type": "lineHeights"
     },
-    "lineheight-104": {
+    "lineHeights-104": {
       "value": "104",
-      "type": "lineHeight"
+      "type": "lineHeights"
     },
-    "lineheight-112": {
+    "lineHeights-112": {
       "value": "112",
-      "type": "lineHeight"
+      "type": "lineHeights"
     },
-    "lineheight-120": {
+    "lineHeights-120": {
       "value": "120",
-      "type": "lineHeight"
+      "type": "lineHeights"
     },
-    "lineheight-140": {
+    "lineHeights-140": {
       "value": "140",
-      "type": "lineHeight"
+      "type": "lineHeights"
     },
-    "lineheight-160": {
+    "lineHeights-160": {
       "value": "160",
-      "type": "lineHeight"
+      "type": "lineHeights"
     },
-    "lineheight-200": {
+    "lineHeights-200": {
       "value": "200",
-      "type": "lineHeight"
+      "type": "lineHeights"
     },
-    "lineheight-232": {
+    "lineHeights-232": {
       "value": "232",
-      "type": "lineHeight"
+      "type": "lineHeights"
+    },
+    "letterspacing--2,2": {
+      "value": "-2.2%",
+      "type": "letterSpacing"
+    },
+    "letterspacing--2,1": {
+      "value": "-2.1%",
+      "type": "letterSpacing"
+    },
+    "letterspacing--1,9": {
+      "value": "-1.9%",
+      "type": "letterSpacing"
+    },
+    "letterspacing--1,7": {
+      "value": "-1.7%",
+      "type": "letterSpacing"
+    },
+    "letterspacing--1,6": {
+      "value": "-1.6%",
+      "type": "letterSpacing"
+    },
+    "letterspacing--1,4": {
+      "value": "-1.4%",
+      "type": "letterSpacing"
+    },
+    "letterspacing--1,2": {
+      "value": "-1.2%",
+      "type": "letterSpacing"
+    },
+    "letterspacing--1,0": {
+      "value": "-1%",
+      "type": "letterSpacing"
+    },
+    "letterspacing--0,8": {
+      "value": "-0.8%",
+      "type": "letterSpacing"
+    },
+    "letterspacing--0,6": {
+      "value": "-0.6%",
+      "type": "letterSpacing"
+    },
+    "letterspacing--0,4": {
+      "value": "-0.4%",
+      "type": "letterSpacing"
+    },
+    "letterspacing--0,2": {
+      "value": "-0.2%",
+      "type": "letterSpacing"
+    },
+    "letterspacing-0": {
+      "value": "0%",
+      "type": "letterSpacing"
+    },
+    "letterspacing-0,5": {
+      "value": "0.5%",
+      "type": "letterSpacing"
+    },
+    "letterspacing-1": {
+      "value": "1%",
+      "type": "letterSpacing"
+    },
+    "letterspacing-1,6": {
+      "value": "1.6%",
+      "type": "letterSpacing"
     }
   },
   "Altura": {},
