@@ -233,6 +233,126 @@
         "value": "#F04D40",
         "type": "color"
       }
+    },
+    "fontsize-9": {
+      "value": "9",
+      "type": "fontSizes"
+    },
+    "fontsize-10": {
+      "value": "10",
+      "type": "fontSizes"
+    },
+    "fontsize-11": {
+      "value": "11",
+      "type": "fontSizes"
+    },
+    "fontsize-12": {
+      "value": "12",
+      "type": "fontSizes"
+    },
+    "fontsize-13": {
+      "value": "13",
+      "type": "fontSizes"
+    },
+    "fontsize-14": {
+      "value": "14",
+      "type": "fontSizes"
+    },
+    "fontsize-15": {
+      "value": "15",
+      "type": "fontSizes"
+    },
+    "fontsize-16": {
+      "value": "16",
+      "type": "fontSizes"
+    },
+    "fontsize-17": {
+      "value": "17",
+      "type": "fontSizes"
+    },
+    "fontsize-18": {
+      "value": "18",
+      "type": "fontSizes"
+    },
+    "fontsize-20": {
+      "value": "20",
+      "type": "fontSizes"
+    },
+    "fontsize-22": {
+      "value": "22",
+      "type": "fontSizes"
+    },
+    "fontsize-24": {
+      "value": "24",
+      "type": "fontSizes"
+    },
+    "fontsize-28": {
+      "value": "28",
+      "type": "fontSizes"
+    },
+    "fontsize-32": {
+      "value": "32",
+      "type": "fontSizes"
+    },
+    "fontsize-36": {
+      "value": "36",
+      "type": "fontSizes"
+    },
+    "fontsize-40": {
+      "value": "40",
+      "type": "fontSizes"
+    },
+    "fontsize-48": {
+      "value": "48",
+      "type": "fontSizes"
+    },
+    "fontsize-56": {
+      "value": "56",
+      "type": "fontSizes"
+    },
+    "fontsize-64": {
+      "value": "64",
+      "type": "fontSizes"
+    },
+    "fontsize-72": {
+      "value": "72",
+      "type": "fontSizes"
+    },
+    "fontsize-80": {
+      "value": "80",
+      "type": "fontSizes"
+    },
+    "fontsize-88": {
+      "value": "88",
+      "type": "fontSizes"
+    },
+    "fontsize-96": {
+      "value": "96",
+      "type": "fontSizes"
+    },
+    "fontsize-104": {
+      "value": "104",
+      "type": "fontSizes"
+    },
+    "fontsize-112": {
+      "value": "112",
+      "type": "fontSizes"
+    },
+    "fontsize-120": {
+      "value": "120",
+      "type": "fontSizes"
+    },
+    "fontsize-144": {
+      "value": "144",
+      "type": "fontSizes"
+    },
+    "fontsize-160": {
+      "value": "160",
+      "type": "fontSizes"
+    },
+    "fontsize-200": {
+      "value": "200",
+      "type": "fontSizes"
     }
   },
   "Altura": {},
