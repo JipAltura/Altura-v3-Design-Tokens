@@ -895,12 +895,8 @@
     },
     "menu": {
       "border": {
-        "empty": {
+        "default": {
           "value": "{Shades.300}",
-          "type": "color"
-        },
-        "filled": {
-          "value": "{Shades.500}",
           "type": "color"
         },
         "active": {
@@ -943,12 +939,8 @@
     },
     "textfield": {
       "border": {
-        "empty": {
+        "default": {
           "value": "{Shades.300}",
-          "type": "color"
-        },
-        "filled": {
-          "value": "{Shades.500}",
           "type": "color"
         },
         "active": {
@@ -1001,6 +993,68 @@
       "disabled": {
         "value": "{Shades.200}",
         "type": "color"
+      }
+    },
+    "dropdown": {
+      "text": {
+        "text-icon": {
+          "empty": {
+            "value": "{Shades.500}",
+            "type": "color"
+          },
+          "filled": {
+            "value": "{Shades.1000}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{Purple.500}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{Shades.200}",
+            "type": "color"
+          }
+        },
+        "trail-icon": {
+          "default": {
+            "value": "{Purple.500}",
+            "type": "color"
+          }
+        }
+      },
+      "outlined": {
+        "text-icon": {
+          "empty": {
+            "value": "{Shades.500}",
+            "type": "color"
+          },
+          "filled": {
+            "value": "{Shades.1000}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{Purple.500}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{Shades.300}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{Shades.300}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{Purple.500}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{Shades.200}",
+            "type": "color"
+          }
+        }
       }
     }
   },
