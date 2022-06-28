@@ -871,8 +871,8 @@
       "value": "{radii-8}",
       "type": "borderRadius"
     },
-    "border": {
-      "card": {
+    "card": {
+      "border": {
         "default": {
           "value": "{Shades.300}",
           "type": "color"
@@ -885,15 +885,21 @@
           "value": "{Purple.500}",
           "type": "color"
         }
+      },
+      "background": {
+        "default": {
+          "value": "{Shades.000}",
+          "type": "color"
+        }
       }
     },
     "menu": {
       "border": {
-        "default": {
+        "empty": {
           "value": "{Shades.300}",
           "type": "color"
         },
-        "ative": {
+        "filled": {
           "value": "{Shades.500}",
           "type": "color"
         },
@@ -907,10 +913,94 @@
         }
       },
       "text-icon": {
-        "default": {
+        "empty": {
+          "value": "{Shades.400}",
+          "type": "color"
+        },
+        "filled": {
           "value": "{Shades.1000}",
           "type": "color"
+        },
+        "active": {
+          "value": "{Shades.1000}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{Shades.300}",
+          "type": "color"
         }
+      },
+      "label": {
+        "empty": {
+          "value": "{Shades.1000}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{Shades.400}",
+          "type": "color"
+        }
+      }
+    },
+    "textfield": {
+      "border": {
+        "empty": {
+          "value": "{Shades.300}",
+          "type": "color"
+        },
+        "filled": {
+          "value": "{Shades.500}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{Purple.500}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{Shades.200}",
+          "type": "color"
+        }
+      },
+      "text-icon": {
+        "empty": {
+          "value": "{Shades.400}",
+          "type": "color"
+        },
+        "filled": {
+          "value": "{Shades.1000}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{Shades.1000}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{Shades.300}",
+          "type": "color"
+        }
+      },
+      "label": {
+        "empty": {
+          "value": "{Shades.1000}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{Shades.400}",
+          "type": "color"
+        }
+      }
+    },
+    "Text": {
+      "Primary": {
+        "value": "{Shades.1000}",
+        "type": "color"
+      },
+      "Secondary": {
+        "value": "{Shades.500}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{Shades.200}",
+        "type": "color"
       }
     }
   },
