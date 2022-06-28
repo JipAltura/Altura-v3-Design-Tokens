@@ -179,6 +179,10 @@
         "value": "rgba(255,255,255,0.2)",
         "type": "color"
       },
+      "White-0": {
+        "value": "rgba(255,255,255,0.0)",
+        "type": "color"
+      },
       "Black-80": {
         "value": "rgba(0,0,0,0.8)",
         "type": "color"
@@ -687,6 +691,108 @@
           "letterSpacing": "{letterspacing--1,0}"
         },
         "type": "typography"
+      },
+      "primary": {
+        "filled": {
+          "background": {
+            "default": {
+              "value": "{Purple.500}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{Purple.600}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{Shades.200}",
+              "type": "color"
+            }
+          },
+          "text-icon": {
+            "default": {
+              "value": "{Shades.000}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{Shades.000}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{Shades.500}",
+              "type": "color"
+            }
+          }
+        },
+        "outlined": {
+          "text-icon": {
+            "default": {
+              "value": "{Shades.1000}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{Purple.500}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{Shades.300}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "secondary": {
+        "filled": {
+          "background": {
+            "default": {
+              "value": "{Aqua.500}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{Aqua.600}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{Shades.200}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "error": {
+        "default": {
+          "value": "{Red.500}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{Red.600}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{Shades.200}",
+          "type": "color"
+        }
+      }
+    },
+    "Button": {
+      "value": "{radii-8}",
+      "type": "borderRadius"
+    },
+    "Card": {
+      "value": "{radii-8}",
+      "type": "borderRadius"
+    },
+    "border": {
+      "default": {
+        "value": "{Shades.300}",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "{Shades.500}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{Purple.500}",
+        "type": "color"
       }
     }
   },
