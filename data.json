@@ -924,6 +924,10 @@
         "disabled": {
           "value": "{Shades.300}",
           "type": "color"
+        },
+        "error": {
+          "value": "{Red.500}",
+          "type": "color"
         }
       },
       "label": {
@@ -967,6 +971,10 @@
         },
         "disabled": {
           "value": "{Shades.300}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{Red.500}",
           "type": "color"
         }
       },
