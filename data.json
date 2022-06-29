@@ -1432,6 +1432,82 @@
           "type": "color"
         }
       }
+    },
+    "tooltip": {
+      "icon": {
+        "default": {
+          "value": "{Shades.500}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{Purple.500}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "default": {
+          "value": "{Shades.1000}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{Shades.300}",
+          "type": "color"
+        }
+      },
+      "background": {
+        "default": {
+          "value": "{Shades.000}",
+          "type": "color"
+        }
+      }
+    },
+    "progressindicator": {
+      "bar": {
+        "filled": {
+          "value": "{Purple.500}",
+          "type": "color"
+        },
+        "empty": {
+          "value": "{Purple.200}",
+          "type": "color"
+        }
+      },
+      "round": {
+        "filled": {
+          "value": "{Purple.500}",
+          "type": "color"
+        },
+        "empty": {
+          "value": "{Purple.200}",
+          "type": "color"
+        }
+      },
+      "list": {
+        "background": {
+          "filled": {
+            "value": "{Aqua.700}",
+            "type": "color"
+          },
+          "empty": {
+            "value": "{Shades.000}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "filled": {
+            "value": "{Shades.000}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "empty": {
+            "value": "{Shades.400}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "$themes": []
