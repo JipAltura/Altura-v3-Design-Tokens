@@ -1394,6 +1394,20 @@
           }
         }
       }
+    },
+    "tag": {
+      "tex-icon": {
+        "default": {
+          "value": "{Shades.1000}",
+          "type": "color"
+        }
+      },
+      "background": {
+        "default": {
+          "value": "{Shades.100}",
+          "type": "color"
+        }
+      }
     }
   },
   "$themes": []
