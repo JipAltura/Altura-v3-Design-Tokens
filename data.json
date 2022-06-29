@@ -574,7 +574,7 @@
       "value": "2",
       "type": "borderWidth"
     },
-    "Drop Shadow 1": {
+    "DropShadow-1": {
       "value": {
         "x": "0",
         "y": "2",
@@ -585,7 +585,7 @@
       },
       "type": "boxShadow"
     },
-    "Drop Shadow 2": {
+    "DropShadow-2": {
       "value": {
         "x": "0",
         "y": "4",
@@ -596,7 +596,7 @@
       },
       "type": "boxShadow"
     },
-    "Drop Shadow 3": {
+    "DropShadow-3": {
       "value": {
         "x": "0",
         "y": "8",
@@ -607,7 +607,7 @@
       },
       "type": "boxShadow"
     },
-    "Drop Shadow 4": {
+    "DropShadow-4": {
       "value": {
         "x": "0",
         "y": "12",
@@ -907,11 +907,11 @@
         }
       }
     },
-    "button border": {
+    "button-border": {
       "value": "{radii-8}",
       "type": "borderRadius"
     },
-    "card border": {
+    "card-border": {
       "value": "{radii-8}",
       "type": "borderRadius"
     },
@@ -1109,15 +1109,15 @@
         }
       }
     },
-    "textfield border": {
+    "textfield-border": {
       "value": "{radii-8}",
       "type": "borderRadius"
     },
-    "menu border": {
+    "menu-border": {
       "value": "{radii-8}",
       "type": "borderRadius"
     },
-    "dropdown border": {
+    "dropdown-border": {
       "value": "{radii-8}",
       "type": "borderRadius"
     }
