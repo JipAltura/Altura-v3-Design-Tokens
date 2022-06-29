@@ -907,11 +907,11 @@
         }
       }
     },
-    "Button": {
+    "button border": {
       "value": "{radii-8}",
       "type": "borderRadius"
     },
-    "Card": {
+    "card border": {
       "value": "{radii-8}",
       "type": "borderRadius"
     },
@@ -1108,6 +1108,18 @@
           }
         }
       }
+    },
+    "textfield border": {
+      "value": "{radii-8}",
+      "type": "borderRadius"
+    },
+    "menu border": {
+      "value": "{radii-8}",
+      "type": "borderRadius"
+    },
+    "dropdown border": {
+      "value": "{radii-8}",
+      "type": "borderRadius"
     }
   },
   "$themes": []
