@@ -1248,6 +1248,80 @@
         "value": "{radii-8}",
         "type": "borderRadius"
       }
+    },
+    "comp": {
+      "button": {
+        "padding-left": {
+          "value": "{spacing-16}",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "{spacing-16}",
+          "type": "spacing"
+        }
+      },
+      "menu": {
+        "padding-left": {
+          "value": "{spacing-16}",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "{spacing-16}",
+          "type": "spacing"
+        }
+      },
+      "text-field": {
+        "padding-left": {
+          "value": "{spacing-16}",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "{spacing-16}",
+          "type": "spacing"
+        }
+      },
+      "dropdown": {
+        "padding-left": {
+          "value": "{spacing-16}",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "{spacing-16}",
+          "type": "spacing"
+        }
+      },
+      "card": {
+        "small": {
+          "padding-left": {
+            "value": "{spacing-16}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{spacing-16}",
+            "type": "spacing"
+          }
+        },
+        "medium": {
+          "padding-left": {
+            "value": "{spacing-24}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{spacing-24}",
+            "type": "spacing"
+          }
+        },
+        "large": {
+          "padding-left": {
+            "value": "{spacing-32}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{spacing-32}",
+            "type": "spacing"
+          }
+        }
+      }
     }
   },
   "$themes": []
