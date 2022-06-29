@@ -617,6 +617,134 @@
         "type": "dropShadow"
       },
       "type": "boxShadow"
+    },
+    "spacing-0": {
+      "value": "0",
+      "type": "spacing"
+    },
+    "spacing-4": {
+      "value": "4",
+      "type": "spacing"
+    },
+    "spacing-8": {
+      "value": "8",
+      "type": "spacing"
+    },
+    "spacing-12": {
+      "value": "12",
+      "type": "spacing"
+    },
+    "spacing-16": {
+      "value": "16",
+      "type": "spacing"
+    },
+    "spacing-20": {
+      "value": "20",
+      "type": "spacing"
+    },
+    "spacing-24": {
+      "value": "24",
+      "type": "spacing"
+    },
+    "spacing-28": {
+      "value": "28",
+      "type": "spacing"
+    },
+    "spacing-32": {
+      "value": "32",
+      "type": "spacing"
+    },
+    "spacing-36": {
+      "value": "36",
+      "type": "spacing"
+    },
+    "spacing-40": {
+      "value": "40",
+      "type": "spacing"
+    },
+    "spacing-44": {
+      "value": "44",
+      "type": "spacing"
+    },
+    "spacing-48": {
+      "value": "48",
+      "type": "spacing"
+    },
+    "spacing-52": {
+      "value": "52",
+      "type": "spacing"
+    },
+    "spacing-56": {
+      "value": "56",
+      "type": "spacing"
+    },
+    "spacing-60": {
+      "value": "60",
+      "type": "spacing"
+    },
+    "spacing-64": {
+      "value": "64",
+      "type": "spacing"
+    },
+    "spacing-68": {
+      "value": "68",
+      "type": "spacing"
+    },
+    "spacing-72": {
+      "value": "72",
+      "type": "spacing"
+    },
+    "spacing-76": {
+      "value": "76",
+      "type": "spacing"
+    },
+    "spacing-80": {
+      "value": "80",
+      "type": "spacing"
+    },
+    "spacing-84": {
+      "value": "84",
+      "type": "spacing"
+    },
+    "spacing-88": {
+      "value": "88",
+      "type": "spacing"
+    },
+    "spacing-92": {
+      "value": "92",
+      "type": "spacing"
+    },
+    "spacing-98": {
+      "value": "98",
+      "type": "spacing"
+    },
+    "spacing-128": {
+      "value": "128",
+      "type": "spacing"
+    },
+    "spacing-192": {
+      "value": "192",
+      "type": "spacing"
+    },
+    "spacing-256": {
+      "value": "256",
+      "type": "spacing"
+    },
+    "spacing-384": {
+      "value": "384",
+      "type": "spacing"
+    },
+    "spacing-512": {
+      "value": "512",
+      "type": "spacing"
+    },
+    "spacing-640": {
+      "value": "640",
+      "type": "spacing"
+    },
+    "spacing-768": {
+      "value": "768",
+      "type": "spacing"
     }
   },
   "Altura": {
