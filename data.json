@@ -1321,6 +1321,16 @@
             "type": "spacing"
           }
         }
+      },
+      "listitem": {
+        "padding-left": {
+          "value": "{spacing-16}",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "{spacing-16}",
+          "type": "spacing"
+        }
       }
     }
   },
