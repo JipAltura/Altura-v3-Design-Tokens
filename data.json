@@ -1078,6 +1078,10 @@
         "disabled": {
           "value": "{Shades.200}",
           "type": "color"
+        },
+        "error": {
+          "value": "{Red.500}",
+          "type": "color"
         }
       },
       "text-icon": {
@@ -1095,10 +1099,6 @@
         },
         "disabled": {
           "value": "{Shades.300}",
-          "type": "color"
-        },
-        "error": {
-          "value": "{Red.500}",
           "type": "color"
         }
       },
@@ -1130,6 +1130,10 @@
         "disabled": {
           "value": "{Shades.200}",
           "type": "color"
+        },
+        "error": {
+          "value": "{Red.500}",
+          "type": "color"
         }
       },
       "text-icon": {
@@ -1147,10 +1151,6 @@
         },
         "disabled": {
           "value": "{Shades.300}",
-          "type": "color"
-        },
-        "error": {
-          "value": "{Red.500}",
           "type": "color"
         }
       },
@@ -1330,6 +1330,68 @@
         "padding-right": {
           "value": "{spacing-16}",
           "type": "spacing"
+        }
+      }
+    },
+    "controls": {
+      "checkbox": {
+        "selected": {
+          "value": "{Purple.500}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{Shades.300}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{Shades.000}",
+          "type": "color"
+        },
+        "border": {
+          "deselected": {
+            "value": "{Shades.400}",
+            "type": "color"
+          }
+        }
+      },
+      "radio-button": {
+        "selected": {
+          "value": "{Purple.500}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{Shades.300}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{Shades.000}",
+          "type": "color"
+        },
+        "border": {
+          "deselected": {
+            "value": "{Shades.400}",
+            "type": "color"
+          }
+        }
+      },
+      "switch": {
+        "selected": {
+          "value": "{Purple.500}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{Shades.300}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{Shades.000}",
+          "type": "color"
+        },
+        "border": {
+          "deselected": {
+            "value": "{Shades.400}",
+            "type": "color"
+          }
         }
       }
     }
