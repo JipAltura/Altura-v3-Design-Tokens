@@ -1098,6 +1098,24 @@
               "type": "color"
             }
           }
+        },
+        "tabs": {
+          "text-icon": {
+            "selected": {
+              "value": "{Purple.500}",
+              "type": "color"
+            },
+            "unselected": {
+              "value": "{Shades.500}",
+              "type": "color"
+            }
+          },
+          "underline": {
+            "selected": {
+              "value": "{Purple.500}",
+              "type": "color"
+            }
+          }
         }
       }
     },
@@ -1470,7 +1488,7 @@
           "type": "color"
         },
         "empty": {
-          "value": "{Purple.200}",
+          "value": "{Purple.100}",
           "type": "color"
         }
       },
@@ -1480,7 +1498,7 @@
           "type": "color"
         },
         "empty": {
-          "value": "{Purple.200}",
+          "value": "{Purple.100}",
           "type": "color"
         }
       },
@@ -1504,6 +1522,174 @@
         "border": {
           "empty": {
             "value": "{Shades.400}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "navigation": {
+      "main-side": {
+        "nav-item": {
+          "text-icon": {
+            "unselected": {
+              "value": "{Shades.700}",
+              "type": "color"
+            },
+            "selected": {
+              "value": "{Purple.500}",
+              "type": "color"
+            }
+          },
+          "background": {
+            "selected": {
+              "value": "{Purple.100}",
+              "type": "color"
+            }
+          },
+          "trail-icon": {
+            "unselected": {
+              "value": "{Shades.400}",
+              "type": "color"
+            },
+            "selected": {
+              "value": "{Purple.300}",
+              "type": "color"
+            }
+          }
+        },
+        "background": {
+          "default": {
+            "value": "{Purple.050}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{Shades.300}",
+            "type": "color"
+          }
+        }
+      },
+      "secondary-top": {
+        "breadcrumb": {
+          "selected": {
+            "value": "{Shades.700}",
+            "type": "color"
+          },
+          "unselected": {
+            "value": "{Shades.400}",
+            "type": "color"
+          }
+        },
+        "button": {
+          "background": {
+            "default": {
+              "value": "{Shades.100}",
+              "type": "color"
+            }
+          },
+          "icon": {
+            "default": {
+              "value": "{Shades.500}",
+              "type": "color"
+            }
+          }
+        },
+        "background": {
+          "default": {
+            "value": "{Shades.000}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{Shades.300}",
+            "type": "color"
+          }
+        }
+      },
+      "tertiary-top": {
+        "background": {
+          "default": {
+            "value": "{Shades.000}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{Shades.300}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "background": {
+      "screen": {
+        "normal": {
+          "value": "{Purple.050}",
+          "type": "color"
+        }
+      }
+    },
+    "charts": {
+      "items": {
+        "1": {
+          "value": "{Misc.Blue}",
+          "type": "color"
+        },
+        "2": {
+          "value": "{Misc.Pink}",
+          "type": "color"
+        },
+        "3": {
+          "value": "{Misc.Green}",
+          "type": "color"
+        },
+        "4": {
+          "value": "{Misc.Turqoise}",
+          "type": "color"
+        },
+        "5": {
+          "value": "{Misc.Orange}",
+          "type": "color"
+        },
+        "6": {
+          "value": "{Misc.Coral}",
+          "type": "color"
+        },
+        "7": {
+          "value": "{Misc.Purple}",
+          "type": "color"
+        },
+        "8": {
+          "value": "{Misc.Lime}",
+          "type": "color"
+        },
+        "9": {
+          "value": "{Misc.Red}",
+          "type": "color"
+        }
+      },
+      "XY-Axis-text": {
+        "default": {
+          "value": "{Shades.400}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{Shades.1000}",
+          "type": "color"
+        }
+      },
+      "grid": {
+        "default": {
+          "value": "{Shades.200}",
+          "type": "color"
+        }
+      },
+      "ledger": {
+        "text": {
+          "default": {
+            "value": "{Shades.1000}",
             "type": "color"
           }
         }
