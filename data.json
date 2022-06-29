@@ -905,17 +905,17 @@
             "type": "color"
           }
         }
+      },
+      "border-radius": {
+        "value": "{radii-8}",
+        "type": "borderRadius"
       }
     },
-    "button-border": {
-      "value": "{radii-8}",
-      "type": "borderRadius"
-    },
-    "card-border": {
-      "value": "{radii-8}",
-      "type": "borderRadius"
-    },
     "card": {
+      "border-radius": {
+        "value": "{radii-8}",
+        "type": "borderRadius"
+      },
       "border": {
         "default": {
           "value": "{Shades.300}",
@@ -983,6 +983,10 @@
           "value": "{Shades.400}",
           "type": "color"
         }
+      },
+      "border-radius": {
+        "value": "{radii-8}",
+        "type": "borderRadius"
       }
     },
     "textfield": {
@@ -1031,6 +1035,10 @@
           "value": "{Shades.400}",
           "type": "color"
         }
+      },
+      "border-radius": {
+        "value": "{radii-8}",
+        "type": "borderRadius"
       }
     },
     "Text": {
@@ -1107,19 +1115,11 @@
             "type": "color"
           }
         }
+      },
+      "border-radius": {
+        "value": "{radii-8}",
+        "type": "borderRadius"
       }
-    },
-    "textfield-border": {
-      "value": "{radii-8}",
-      "type": "borderRadius"
-    },
-    "menu-border": {
-      "value": "{radii-8}",
-      "type": "borderRadius"
-    },
-    "dropdown-border": {
-      "value": "{radii-8}",
-      "type": "borderRadius"
     }
   },
   "$themes": []
