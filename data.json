@@ -198,6 +198,10 @@
       "Black-20": {
         "value": "rgba(0,0,0,0.2)",
         "type": "color"
+      },
+      "Black-02": {
+        "value": "rgba(0,0,0,0.02)",
+        "type": "color"
       }
     },
     "Misc": {
