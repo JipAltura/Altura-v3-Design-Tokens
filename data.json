@@ -1037,6 +1037,68 @@
       "border-radius": {
         "value": "{radii-8}",
         "type": "borderRadius"
+      },
+      "controls": {
+        "checkbox": {
+          "selected": {
+            "value": "{Purple.500}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{Shades.300}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{Shades.000}",
+            "type": "color"
+          },
+          "border": {
+            "deselected": {
+              "value": "{Shades.400}",
+              "type": "color"
+            }
+          }
+        },
+        "radio-button": {
+          "selected": {
+            "value": "{Purple.500}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{Shades.300}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{Shades.000}",
+            "type": "color"
+          },
+          "border": {
+            "deselected": {
+              "value": "{Shades.400}",
+              "type": "color"
+            }
+          }
+        },
+        "switch": {
+          "selected": {
+            "value": "{Purple.500}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{Shades.300}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{Shades.000}",
+            "type": "color"
+          },
+          "border": {
+            "deselected": {
+              "value": "{Shades.400}",
+              "type": "color"
+            }
+          }
+        }
       }
     },
     "card": {
@@ -1333,68 +1395,6 @@
         }
       }
     },
-    "controls": {
-      "checkbox": {
-        "selected": {
-          "value": "{Purple.500}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{Shades.300}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{Shades.000}",
-          "type": "color"
-        },
-        "border": {
-          "deselected": {
-            "value": "{Shades.400}",
-            "type": "color"
-          }
-        }
-      },
-      "radio-button": {
-        "selected": {
-          "value": "{Purple.500}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{Shades.300}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{Shades.000}",
-          "type": "color"
-        },
-        "border": {
-          "deselected": {
-            "value": "{Shades.400}",
-            "type": "color"
-          }
-        }
-      },
-      "switch": {
-        "selected": {
-          "value": "{Purple.500}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{Shades.300}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{Shades.000}",
-          "type": "color"
-        },
-        "border": {
-          "deselected": {
-            "value": "{Shades.400}",
-            "type": "color"
-          }
-        }
-      }
-    },
     "tag": {
       "tex-icon": {
         "default": {
@@ -1405,6 +1405,30 @@
       "background": {
         "default": {
           "value": "{Shades.100}",
+          "type": "color"
+        }
+      }
+    },
+    "notification": {
+      "background": {
+        "default": {
+          "value": "{Shades.600}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "body": {
+          "value": "{Shades.300}",
+          "type": "color"
+        },
+        "header": {
+          "value": "{Shades.000}",
+          "type": "color"
+        }
+      },
+      "actions": {
+        "default": {
+          "value": "{Shades.000}",
           "type": "color"
         }
       }
