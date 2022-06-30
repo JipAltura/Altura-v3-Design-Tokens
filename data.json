@@ -1555,6 +1555,14 @@
           "padding-right": {
             "value": "{spacing-16}",
             "type": "spacing"
+          },
+          "padding-top": {
+            "value": "{spacing-16}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{spacing-16}",
+            "type": "spacing"
           }
         },
         "medium": {
@@ -1563,6 +1571,14 @@
             "type": "spacing"
           },
           "padding-right": {
+            "value": "{spacing-24}",
+            "type": "spacing"
+          },
+          "padding-top": {
+            "value": "{spacing-24}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
             "value": "{spacing-24}",
             "type": "spacing"
           }
@@ -1575,6 +1591,14 @@
           "padding-right": {
             "value": "{spacing-32}",
             "type": "spacing"
+          },
+          "padding-top": {
+            "value": "{spacing-32}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{spacing-32}",
+            "type": "spacing"
           }
         }
       },
@@ -1585,6 +1609,14 @@
         },
         "padding-right": {
           "value": "{spacing-16}",
+          "type": "spacing"
+        },
+        "padding-top": {
+          "value": "{spacing-8}",
+          "type": "spacing"
+        },
+        "padding-bottom": {
+          "value": "{spacing-8}",
           "type": "spacing"
         }
       },
@@ -1618,6 +1650,14 @@
         "padding-right": {
           "value": "{spacing-20}",
           "type": "spacing"
+        },
+        "paddding-top": {
+          "value": "{spacing-16}",
+          "type": "spacing"
+        },
+        "padding-bottom": {
+          "value": "{spacing-16}",
+          "type": "spacing"
         }
       },
       "tooltip": {
@@ -1627,6 +1667,14 @@
         },
         "padding-right": {
           "value": "{spacing-16}",
+          "type": "spacing"
+        },
+        "padding-top": {
+          "value": "{spacing-12}",
+          "type": "spacing"
+        },
+        "padding-bottom": {
+          "value": "{spacing-12}",
           "type": "spacing"
         }
       },
@@ -1649,6 +1697,14 @@
               "padding-right": {
                 "value": "{spacing-12}",
                 "type": "spacing"
+              },
+              "padding-top": {
+                "value": "{spacing-8}",
+                "type": "spacing"
+              },
+              "padding-bottom": {
+                "value": "{spacing-8}",
+                "type": "spacing"
               }
             }
           }
@@ -1668,13 +1724,41 @@
           }
         },
         "tertiary-top": {
-          "padding-left": {
-            "value": "{spacing-12}",
-            "type": "spacing"
+          "controls": {
+            "padding-left": {
+              "value": "{spacing-12}",
+              "type": "spacing"
+            },
+            "padding-right": {
+              "value": "{spacing-24}",
+              "type": "spacing"
+            },
+            "padding-top": {
+              "value": "{spacing-8}",
+              "type": "spacing"
+            },
+            "padding-bottom": {
+              "value": "{spacing-8}",
+              "type": "spacing"
+            }
           },
-          "padding-right": {
-            "value": "{spacing-24}",
-            "type": "spacing"
+          "filtering": {
+            "padding-left": {
+              "value": "{spacing-24}",
+              "type": "spacing"
+            },
+            "padding-right": {
+              "value": "{spacing-24}",
+              "type": "spacing"
+            },
+            "padding-top": {
+              "value": "{spacing-24}",
+              "type": "spacing"
+            },
+            "padding-bottom": {
+              "value": "{spacing-16}",
+              "type": "spacing"
+            }
           }
         }
       },
@@ -1687,6 +1771,14 @@
           "padding-right": {
             "value": "{spacing-24}",
             "type": "spacing"
+          },
+          "padding-top": {
+            "value": "{spacing-16}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{spacing-16}",
+            "type": "spacing"
           }
         }
       },
@@ -1696,6 +1788,10 @@
           "type": "spacing"
         },
         "padding-right": {
+          "value": "{spacing-4}",
+          "type": "spacing"
+        },
+        "padding-top": {
           "value": "{spacing-4}",
           "type": "spacing"
         }
