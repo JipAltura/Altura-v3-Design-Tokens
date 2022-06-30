@@ -1497,6 +1497,28 @@
             "type": "spacing"
           }
         }
+      },
+      "charts": {
+        "ledger": {
+          "padding-left": {
+            "value": "{spacing-24}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{spacing-24}",
+            "type": "spacing"
+          }
+        }
+      },
+      "kanban-board": {
+        "padding-left": {
+          "value": "{spacing-4}",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "{spacing-4}",
+          "type": "spacing"
+        }
       }
     },
     "tag": {
@@ -1873,15 +1895,11 @@
         }
       }
     },
-    "Kanban-board": {
+    "kanban-board": {
       "background": {
         "default": {
           "value": "{Transparent.Black-02}",
           "type": "color"
-        },
-        "border-radius": {
-          "value": "{radii-8}",
-          "type": "borderRadius"
         }
       },
       "card": {
@@ -1898,7 +1916,17 @@
         "background": {
           "value": "{Shades.000}",
           "type": "color"
-        },
+        }
+      }
+    },
+    "Kanban-board": {
+      "background": {
+        "border-radius": {
+          "value": "{radii-8}",
+          "type": "borderRadius"
+        }
+      },
+      "card": {
         "border-radius": {
           "value": "{radii-4}",
           "type": "borderRadius"
