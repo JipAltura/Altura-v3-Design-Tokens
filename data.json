@@ -2213,6 +2213,12 @@
           "value": "{Shades.1000}",
           "type": "color"
         }
+      },
+      "underline": {
+        "default": {
+          "value": "{Shades.200}",
+          "type": "color"
+        }
       }
     },
     "kanban-board": {
