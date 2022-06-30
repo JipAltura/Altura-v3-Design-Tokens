@@ -1640,6 +1640,12 @@
         "normal": {
           "value": "{Purple.050}",
           "type": "color"
+        },
+        "page-overlay": {
+          "default": {
+            "value": "{Transparent.Black-20}",
+            "type": "color"
+          }
         }
       }
     },
@@ -1706,6 +1712,60 @@
             "value": "{Shades.1000}",
             "type": "color"
           }
+        },
+        "border": {
+          "default": {
+            "value": "{Shades.300}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "list-item": {
+      "text-icon": {
+        "icon": {
+          "value": "{Shades.1000}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{Shades.1000}",
+          "type": "color"
+        },
+        "overline": {
+          "value": "{Shades.500}",
+          "type": "color"
+        },
+        "description": {
+          "value": "{Shades.500}",
+          "type": "color"
+        },
+        "caption": {
+          "value": "{Shades.1000}",
+          "type": "color"
+        }
+      }
+    },
+    "Kanban-board": {
+      "background": {
+        "default": {
+          "value": "{Transparent.Black-02}",
+          "type": "color"
+        }
+      },
+      "card": {
+        "border": {
+          "default": {
+            "value": "{Shades.200}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{Shades.400}",
+            "type": "color"
+          }
+        },
+        "background": {
+          "value": "{Shades.000}",
+          "type": "color"
         }
       }
     }
