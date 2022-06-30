@@ -1583,6 +1583,36 @@
               "value": "{Purple.300}",
               "type": "color"
             }
+          },
+          "list": {
+            "nav-item-source": {
+              "text": {
+                "value": "{Shades.400}",
+                "type": "color"
+              }
+            },
+            "nav-item": {
+              "selected": {
+                "text": {
+                  "value": "{Purple.500}",
+                  "type": "color"
+                },
+                "background": {
+                  "value": "{Purple.100}",
+                  "type": "color"
+                }
+              },
+              "unselected": {
+                "text": {
+                  "value": "{Shades.1000}",
+                  "type": "color"
+                }
+              }
+            },
+            "border-radius": {
+              "value": "{radii-8}",
+              "type": "borderRadius"
+            }
           }
         },
         "background": {
