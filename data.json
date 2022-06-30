@@ -1423,6 +1423,80 @@
           "value": "{spacing-16}",
           "type": "spacing"
         }
+      },
+      "tag": {
+        "padding-left": {
+          "value": "{spacing-8}",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "{spacing-8}",
+          "type": "spacing"
+        }
+      },
+      "notification": {
+        "padding-left": {
+          "value": "{spacing-16}",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "{spacing-20}",
+          "type": "spacing"
+        }
+      },
+      "tooltip": {
+        "padding-left": {
+          "value": "{spacing-16}",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "{spacing-16}",
+          "type": "spacing"
+        }
+      },
+      "navigation": {
+        "main-side": {
+          "nav-item": {
+            "padding-left": {
+              "value": "{spacing-20}",
+              "type": "spacing"
+            },
+            "padding-right": {
+              "value": "{spacing-12}",
+              "type": "spacing"
+            },
+            "list": {
+              "padding-left": {
+                "value": "{spacing-20}",
+                "type": "spacing"
+              },
+              "padding-right": {
+                "value": "{spacing-12}",
+                "type": "spacing"
+              }
+            }
+          }
+        },
+        "secondary-top": {
+          "padding-left": {
+            "value": "{spacing-12}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{spacing-24}",
+            "type": "spacing"
+          }
+        },
+        "tertiary-top": {
+          "padding-left": {
+            "value": "{spacing-12}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{spacing-24}",
+            "type": "spacing"
+          }
+        }
       }
     },
     "tag": {
