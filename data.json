@@ -1480,7 +1480,7 @@
           "type": "spacing"
         },
         "height-small": {
-          "value": "{sizing-36}",
+          "value": "{sizing-32}",
           "type": "sizing"
         },
         "height-medium": {
