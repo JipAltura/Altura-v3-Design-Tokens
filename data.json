@@ -1235,8 +1235,14 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{Shades.300}",
-            "type": "color"
+            "background": {
+              "value": "{Shades.100}",
+              "type": "color"
+            },
+            "control-icon": {
+              "value": "{Shades.300}",
+              "type": "color"
+            }
           },
           "icon": {
             "value": "{Shades.000}",
@@ -1245,6 +1251,16 @@
           "border": {
             "deselected": {
               "value": "{Shades.400}",
+              "type": "color"
+            }
+          },
+          "inactive": {
+            "background": {
+              "value": "{Purple.100}",
+              "type": "color"
+            },
+            "icon": {
+              "value": "{Purple.500}",
               "type": "color"
             }
           }
