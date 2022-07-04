@@ -1193,6 +1193,20 @@
               "value": "{Shades.400}",
               "type": "color"
             }
+          },
+          "text": {
+            "enabled": {
+              "value": "{Shades.1000}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{Shades.300}",
+              "type": "color"
+            }
+          },
+          "background-hover": {
+            "value": "{Purple.100}",
+            "type": "color"
           }
         },
         "radio-button": {
