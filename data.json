@@ -1435,28 +1435,40 @@
     },
     "dropdown": {
       "text": {
-        "text-icon": {
-          "empty": {
-            "value": "{Shades.500}",
-            "type": "color"
-          },
-          "filled": {
-            "value": "{Shades.1000}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{Purple.500}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{Shades.200}",
-            "type": "color"
-          }
-        },
-        "trail-icon": {
+        "item": {
           "default": {
-            "value": "{Purple.500}",
-            "type": "color"
+            "text-icon": {
+              "empty": {
+                "value": "{Shades.500}",
+                "type": "color"
+              },
+              "text-icon": {
+                "value": "{Shades.1000}",
+                "type": "color"
+              },
+              "active": {
+                "value": "{Purple.500}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{Shades.200}",
+                "type": "color"
+              },
+              "subline": {
+                "value": "{Shades.500}",
+                "type": "color"
+              }
+            }
+          },
+          "selected": {
+            "background": {
+              "value": "{Purple.100}",
+              "type": "color"
+            },
+            "icon": {
+              "value": "{Purple.500}",
+              "type": "color"
+            }
           }
         }
       },
@@ -1475,7 +1487,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{Shades.300}",
+            "value": "{Shades.500}",
             "type": "color"
           }
         },
@@ -1574,6 +1586,24 @@
         "height-large": {
           "value": "{sizing-48}",
           "type": "sizing"
+        },
+        "item": {
+          "padding-left": {
+            "value": "{spacing-16}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{spacing-16}",
+            "type": "spacing"
+          },
+          "padding-top": {
+            "value": "{spacing-8}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{spacing-8}",
+            "type": "spacing"
+          }
         }
       },
       "card": {
@@ -1630,24 +1660,6 @@
             "value": "{spacing-32}",
             "type": "spacing"
           }
-        }
-      },
-      "listitem": {
-        "padding-left": {
-          "value": "{spacing-16}",
-          "type": "spacing"
-        },
-        "padding-right": {
-          "value": "{spacing-16}",
-          "type": "spacing"
-        },
-        "padding-top": {
-          "value": "{spacing-8}",
-          "type": "spacing"
-        },
-        "padding-bottom": {
-          "value": "{spacing-8}",
-          "type": "spacing"
         }
       },
       "tag": {
@@ -2286,6 +2298,18 @@
         "border-radius": {
           "value": "{radii-4}",
           "type": "borderRadius"
+        }
+      }
+    },
+    "Dropdown": {
+      "item": {
+        "one-line": {
+          "value": "{sizing-40}",
+          "type": "sizing"
+        },
+        "two-line": {
+          "value": "{sizing-48}",
+          "type": "sizing"
         }
       }
     }
