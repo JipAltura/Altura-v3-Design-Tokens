@@ -1423,6 +1423,12 @@
           "value": "{Red.500}",
           "type": "color"
         }
+      },
+      "background": {
+        "disabled": {
+          "value": "{Shades.100}",
+          "type": "color"
+        }
       }
     },
     "Text": {
