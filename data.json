@@ -1413,6 +1413,16 @@
       "border-radius": {
         "value": "{radii-8}",
         "type": "borderRadius"
+      },
+      "helper-text": {
+        "default": {
+          "value": "{Shades.500}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{Red.500}",
+          "type": "color"
+        }
       }
     },
     "Text": {
