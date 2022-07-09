@@ -2,7 +2,7 @@
   "Core": {
     "Purple": {
       "100": {
-        "value": "#F5F1FF",
+        "value": "#F0EBFB",
         "type": "color"
       },
       "200": {
@@ -30,7 +30,7 @@
         "type": "color"
       },
       "050": {
-        "value": "#F5F4FA",
+        "value": "#F7F8FC",
         "type": "color"
       }
     },
@@ -883,70 +883,70 @@
     "Surfaces": {
       "Background": {
         "Default": {
-          "value": "#f7f8fc",
+          "value": "{Purple.050}",
           "type": "color"
         },
         "Hover": {
-          "value": "#eeeaff",
+          "value": "{Purple.100}",
           "type": "color"
         },
         "Active": {
-          "value": "#eeeaff",
+          "value": "{Purple.100}",
           "type": "color"
         }
       },
       "Neutral": {
         "Default": {
-          "value": "#ffffff",
+          "value": "{Shades.000}",
           "type": "color"
         },
         "Hover": {
-          "value": "#f4f6fa",
+          "value": "{Shades.100}",
           "type": "color"
         },
         "Active": {
-          "value": "#eceff5",
+          "value": "{Shades.200}",
           "type": "color"
         },
         "Disabled": {
-          "value": "#eef0f4",
+          "value": "{Shades.100}",
           "type": "color"
         }
       },
       "Primary": {
         "Default": {
-          "value": "#2f0db9",
+          "value": "{Purple.500}",
           "type": "color"
         },
         "Hover": {
-          "value": "#2e0fa9",
+          "value": "{Purple.600}",
           "type": "color"
         },
         "Active": {
-          "value": "#280f8d",
+          "value": "{Purple.700}",
           "type": "color"
         },
         "Disabled": {
-          "value": "#eef0f4",
+          "value": "{Shades.100}",
           "type": "color"
         }
       }
     },
     "Text": {
       "Default": {
-        "value": "#1c252e",
+        "value": "{Shades.800}",
         "type": "color"
       },
       "Subdued": {
-        "value": "#a8afbd",
+        "value": "{Shades.400}",
         "type": "color"
       },
       "Whisper": {
-        "value": "#ced4df",
+        "value": "{Shades.300}",
         "type": "color"
       },
       "Disabled": {
-        "value": "#eaedf2",
+        "value": "{Shades.200}",
         "type": "color"
       },
       "On Background": {
