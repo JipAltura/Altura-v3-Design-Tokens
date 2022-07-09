@@ -880,1452 +880,273 @@
     }
   },
   "Altura": {
-    "header": {
-      "H1": {
-        "value": {
-          "fontFamily": "{font-family-inter}",
-          "fontWeight": "{fontweight-semibold}",
-          "lineHeight": "{lineHeights-48}",
-          "fontSize": "{fontsize-36}",
-          "letterSpacing": "{letterspacing--2,1}"
-        },
-        "type": "typography",
-        "description": "Title"
-      },
-      "H2": {
-        "value": {
-          "fontFamily": "{font-family-inter}",
-          "fontWeight": "{fontweight-semibold}",
-          "lineHeight": "{lineHeights-32}",
-          "fontSize": "{fontsize-24}",
-          "letterSpacing": "{letterspacing--2,1}"
-        },
-        "type": "typography"
-      },
-      "H3": {
-        "value": {
-          "fontFamily": "{font-family-inter}",
-          "fontWeight": "{fontweight-semibold}",
-          "lineHeight": "{lineHeights-24}",
-          "fontSize": "{fontsize-20}",
-          "letterSpacing": "{letterspacing--2,1}"
-        },
-        "type": "typography"
-      },
-      "H4": {
-        "value": {
-          "fontFamily": "{font-family-inter}",
-          "fontWeight": "{fontweight-semibold}",
-          "lineHeight": "{lineHeights-24}",
-          "fontSize": "{fontsize-18}",
-          "letterSpacing": "{letterspacing--2,1}"
-        },
-        "type": "typography"
-      }
-    },
-    "body": {
-      "regular": {
-        "value": {
-          "fontFamily": "{font-family-inter}",
-          "fontWeight": "{fontweight-regular}",
-          "lineHeight": "{lineHeights-20}",
-          "fontSize": "{fontsize-16}",
-          "letterSpacing": "{letterspacing--1,2}"
-        },
-        "type": "typography"
-      },
-      "regular-semibold": {
-        "value": {
-          "fontFamily": "{font-family-inter}",
-          "fontWeight": "{fontweight-semibold}",
-          "lineHeight": "{lineHeights-20}",
-          "fontSize": "{fontsize-16}",
-          "letterSpacing": "{letterspacing--1,2}"
-        },
-        "type": "typography"
-      },
-      "small": {
-        "value": {
-          "fontFamily": "{font-family-inter}",
-          "lineHeight": "{lineHeights-20}",
-          "fontSize": "{fontsize-14}",
-          "fontWeight": "{fontweight-regular}",
-          "letterSpacing": "{letterspacing--1,2}"
-        },
-        "type": "typography"
-      },
-      "small-semibold": {
-        "value": {
-          "fontFamily": "{font-family-inter}",
-          "lineHeight": "{lineHeights-20}",
-          "fontSize": "{fontsize-14}",
-          "fontWeight": "{fontweight-semibold}",
-          "letterSpacing": "{letterspacing--1,2}"
-        },
-        "type": "typography"
-      },
-      "micro": {
-        "value": {
-          "fontFamily": "{font-family-inter}",
-          "fontWeight": "{fontweight-regular}",
-          "lineHeight": "{lineHeights-16}",
-          "fontSize": "{fontsize-12}",
-          "letterSpacing": "{letterspacing--1,0}"
-        },
-        "type": "typography"
-      },
-      "micro-semibold": {
-        "value": {
-          "fontFamily": "{font-family-inter}",
-          "fontWeight": "{fontweight-semibold}",
-          "lineHeight": "{lineHeights-16}",
-          "fontSize": "{fontsize-12}",
-          "letterSpacing": "{letterspacing--1,0}"
-        },
-        "type": "typography"
-      }
-    },
-    "button": {
-      "regular": {
-        "value": {
-          "fontFamily": "{font-family-inter}",
-          "fontWeight": "{fontweight-medium}",
-          "lineHeight": "{lineHeights-24}",
-          "fontSize": "{fontsize-14}",
-          "letterSpacing": "{letterspacing--1,0}"
-        },
-        "type": "typography"
-      },
-      "primary": {
-        "filled": {
-          "background": {
-            "default": {
-              "value": "{Purple.500}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{Purple.600}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{Shades.200}",
-              "type": "color"
-            }
-          },
-          "text-icon": {
-            "default": {
-              "value": "{Shades.000}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{Shades.000}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{Shades.300}",
-              "type": "color"
-            }
-          }
-        },
-        "outlined": {
-          "text-icon": {
-            "default": {
-              "value": "{Shades.500}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{Purple.500}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{Shades.300}",
-              "type": "color"
-            }
-          },
-          "border": {
-            "default": {
-              "value": "{Shades.300}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{Purple.500}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{Shades.300}",
-              "type": "color"
-            }
-          }
-        },
-        "text": {
-          "text-icon": {
-            "default": {
-              "value": "{Shades.500}",
-              "type": "color"
-            },
-            "defaultpressed": {
-              "value": "{Purple.500}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{Shades.200}",
-              "type": "color"
-            },
-            "error": {
-              "value": "{Red.500}",
-              "type": "color"
-            }
-          }
-        }
-      },
-      "secondary": {
-        "filled": {
-          "background": {
-            "default": {
-              "value": "{Aqua.500}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{Aqua.600}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{Shades.200}",
-              "type": "color"
-            }
-          },
-          "text-icon": {
-            "default": {
-              "value": "{Shades.000}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{Shades.000}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{Shades.300}",
-              "type": "color"
-            }
-          }
-        }
-      },
-      "error": {
-        "filled": {
-          "background": {
-            "default": {
-              "value": "{Red.500}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{Red.600}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{Shades.200}",
-              "type": "color"
-            }
-          },
-          "text-icon": {
-            "default": {
-              "value": "{Shades.000}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{Shades.000}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{Shades.300}",
-              "type": "color"
-            }
-          }
-        }
-      },
-      "toggle": {
-        "text-icon": {
-          "default": {
-            "value": "{Shades.1000}",
-            "type": "color"
-          },
-          "pressed": {
-            "value": "{Purple.500}",
-            "type": "color"
-          }
-        },
-        "border": {
-          "default": {
-            "value": "{Shades.300}",
-            "type": "color"
-          },
-          "pressed": {
-            "value": "{Purple.500}",
-            "type": "color"
-          }
-        },
-        "background": {
-          "pressed": {
-            "value": "{Purple.100}",
-            "type": "color"
-          }
-        }
-      },
-      "border-radius": {
-        "value": "{radii-8}",
-        "type": "borderRadius"
-      },
-      "controls": {
-        "checkbox": {
-          "selected": {
-            "value": "{Purple.500}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{Shades.300}",
-            "type": "color"
-          },
-          "icon": {
-            "value": "{Shades.000}",
-            "type": "color"
-          },
-          "border": {
-            "deselected": {
-              "value": "{Shades.400}",
-              "type": "color"
-            }
-          },
-          "text": {
-            "enabled": {
-              "value": "{Shades.1000}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{Shades.300}",
-              "type": "color"
-            }
-          },
-          "background-hover": {
-            "value": "{Purple.100}",
-            "type": "color"
-          }
-        },
-        "radio-button": {
-          "selected": {
-            "value": "{Purple.500}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{Shades.300}",
-            "type": "color"
-          },
-          "icon": {
-            "value": "{Shades.000}",
-            "type": "color"
-          },
-          "border": {
-            "deselected": {
-              "value": "{Shades.400}",
-              "type": "color"
-            }
-          }
-        },
-        "switch": {
-          "selected": {
-            "value": "{Purple.500}",
-            "type": "color"
-          },
-          "disabled": {
-            "background": {
-              "value": "{Shades.100}",
-              "type": "color"
-            },
-            "control-icon": {
-              "value": "{Shades.300}",
-              "type": "color"
-            }
-          },
-          "icon": {
-            "value": "{Shades.000}",
-            "type": "color"
-          },
-          "border": {
-            "deselected": {
-              "value": "{Shades.400}",
-              "type": "color"
-            }
-          },
-          "inactive": {
-            "background": {
-              "value": "{Purple.100}",
-              "type": "color"
-            },
-            "icon": {
-              "value": "{Purple.500}",
-              "type": "color"
-            }
-          }
-        },
-        "tabs": {
-          "text-icon": {
-            "selected": {
-              "value": "{Purple.500}",
-              "type": "color"
-            },
-            "unselected": {
-              "value": "{Shades.500}",
-              "type": "color"
-            }
-          },
-          "underline": {
-            "selected": {
-              "value": "{Purple.500}",
-              "type": "color"
-            }
-          }
-        }
-      }
-    },
-    "card": {
-      "border-radius": {
-        "value": "{radii-8}",
-        "type": "borderRadius"
-      },
-      "border": {
-        "default": {
-          "value": "{Shades.300}",
+    "Surfaces": {
+      "Background": {
+        "Default": {
+          "value": "#f7f8fc",
           "type": "color"
         },
-        "pressed": {
-          "value": "{Shades.500}",
+        "Hover": {
+          "value": "#eeeaff",
           "type": "color"
         },
-        "active": {
-          "value": "{Purple.500}",
+        "Active": {
+          "value": "#eeeaff",
           "type": "color"
         }
       },
-      "background": {
-        "default": {
-          "value": "{Shades.000}",
-          "type": "color"
-        }
-      }
-    },
-    "menu": {
-      "border": {
-        "default": {
-          "value": "{Shades.300}",
+      "Neutral": {
+        "Default": {
+          "value": "#ffffff",
           "type": "color"
         },
-        "active": {
-          "value": "{Purple.500}",
+        "Hover": {
+          "value": "#f4f6fa",
           "type": "color"
         },
-        "disabled": {
-          "value": "{Shades.200}",
+        "Active": {
+          "value": "#eceff5",
           "type": "color"
         },
-        "error": {
-          "value": "{Red.500}",
+        "Disabled": {
+          "value": "#eef0f4",
           "type": "color"
         }
       },
-      "text-icon": {
-        "empty": {
-          "value": "{Shades.400}",
+      "Primary": {
+        "Default": {
+          "value": "#2f0db9",
           "type": "color"
         },
-        "filled": {
-          "value": "{Shades.1000}",
+        "Hover": {
+          "value": "#2e0fa9",
           "type": "color"
         },
-        "active": {
-          "value": "{Shades.1000}",
+        "Active": {
+          "value": "#280f8d",
           "type": "color"
         },
-        "disabled": {
-          "value": "{Shades.300}",
-          "type": "color"
-        }
-      },
-      "label": {
-        "empty": {
-          "value": "{Shades.1000}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{Shades.400}",
-          "type": "color"
-        }
-      },
-      "border-radius": {
-        "value": "{radii-8}",
-        "type": "borderRadius"
-      }
-    },
-    "textfield": {
-      "border": {
-        "default": {
-          "value": "{Shades.300}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{Purple.500}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{Shades.200}",
-          "type": "color"
-        },
-        "error": {
-          "value": "{Red.500}",
-          "type": "color"
-        }
-      },
-      "text-icon": {
-        "empty": {
-          "value": "{Shades.400}",
-          "type": "color"
-        },
-        "filled": {
-          "value": "{Shades.1000}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{Shades.1000}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{Shades.300}",
-          "type": "color"
-        }
-      },
-      "label": {
-        "empty": {
-          "value": "{Shades.1000}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{Shades.400}",
-          "type": "color"
-        }
-      },
-      "border-radius": {
-        "value": "{radii-8}",
-        "type": "borderRadius"
-      },
-      "helper-text": {
-        "default": {
-          "value": "{Shades.500}",
-          "type": "color"
-        },
-        "error": {
-          "value": "{Red.500}",
-          "type": "color"
-        }
-      },
-      "background": {
-        "disabled": {
-          "value": "{Shades.100}",
+        "Disabled": {
+          "value": "#eef0f4",
           "type": "color"
         }
       }
     },
     "Text": {
+      "Default": {
+        "value": "#1c252e",
+        "type": "color"
+      },
+      "Subdued": {
+        "value": "#a8afbd",
+        "type": "color"
+      },
+      "Whisper": {
+        "value": "#ced4df",
+        "type": "color"
+      },
+      "Disabled": {
+        "value": "#eaedf2",
+        "type": "color"
+      },
+      "On Background": {
+        "Default": {
+          "value": "#1c252e",
+          "type": "color"
+        },
+        "Subdued": {
+          "value": "#788195",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "#1c252e",
+          "type": "color"
+        },
+        "Active": {
+          "value": "#2f0db9",
+          "type": "color"
+        },
+        "Active Subdued": {
+          "value": "#b7aede",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "#ddd7f8",
+          "type": "color"
+        }
+      },
+      "On Neutral": {
+        "Default": {
+          "value": "#1c252e",
+          "type": "color"
+        },
+        "Subdued": {
+          "value": "#a8afbd",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "#1c252e",
+          "type": "color"
+        },
+        "Active": {
+          "value": "#1c252e",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "#c8cedb",
+          "type": "color"
+        }
+      },
+      "On Primary": {
+        "Default": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Subdued": {
+          "value": "#b7aede",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Active": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "#c8cedb",
+          "type": "color"
+        }
+      }
+    },
+    "Icon": {
+      "Default": {
+        "value": "#1c252e",
+        "type": "color"
+      },
+      "Subdued": {
+        "value": "#a8afbd",
+        "type": "color"
+      },
+      "Whisper": {
+        "value": "#ced4df",
+        "type": "color"
+      },
+      "Disabled": {
+        "value": "#eaedf2",
+        "type": "color"
+      },
+      "On Background": {
+        "Default": {
+          "value": "#1c252e",
+          "type": "color"
+        },
+        "Subdued": {
+          "value": "#a8afbd",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "#1c252e",
+          "type": "color"
+        },
+        "Active": {
+          "value": "#2f0db9",
+          "type": "color"
+        },
+        "Active Subdued": {
+          "value": "#b7aede",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "#ddd7f8",
+          "type": "color"
+        }
+      },
+      "On Neutral": {
+        "Default": {
+          "value": "#1c252e",
+          "type": "color"
+        },
+        "Subdued": {
+          "value": "#a8afbd",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "#1c252e",
+          "type": "color"
+        },
+        "Active": {
+          "value": "#1c252e",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "#c8cedb",
+          "type": "color"
+        }
+      },
+      "On Primary": {
+        "Default": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Subdued": {
+          "value": "#b7aede",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Active": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "#c8cedb",
+          "type": "color"
+        }
+      }
+    },
+    "Action": {
       "Primary": {
-        "value": "{Shades.1000}",
+        "Default": {
+          "value": "#2f0db9",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "#2e0fa9",
+          "type": "color"
+        },
+        "Active": {
+          "value": "#280f8d",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "#eef0f4",
+          "type": "color"
+        }
+      }
+    },
+    "Border": {
+      "Default": {
+        "value": "#eae9f0",
         "type": "color"
       },
-      "Secondary": {
-        "value": "{Shades.500}",
+      "Loud": {
+        "value": "#dce1e9",
         "type": "color"
       },
-      "disabled": {
-        "value": "{Shades.200}",
-        "type": "color"
-      },
-      "error": {
-        "value": "{Red.500}",
-        "type": "color"
-      }
-    },
-    "dropdown": {
-      "text": {
-        "item": {
-          "default": {
-            "text-icon": {
-              "empty": {
-                "value": "{Shades.500}",
-                "type": "color"
-              },
-              "text-icon": {
-                "value": "{Shades.1000}",
-                "type": "color"
-              },
-              "active": {
-                "value": "{Purple.500}",
-                "type": "color"
-              },
-              "disabled": {
-                "value": "{Shades.200}",
-                "type": "color"
-              },
-              "subline": {
-                "value": "{Shades.500}",
-                "type": "color"
-              }
-            }
-          },
-          "selected": {
-            "background": {
-              "value": "{Purple.100}",
-              "type": "color"
-            },
-            "icon": {
-              "value": "{Purple.500}",
-              "type": "color"
-            }
-          }
-        }
-      },
-      "outlined": {
-        "text-icon": {
-          "empty": {
-            "value": "{Shades.500}",
-            "type": "color"
-          },
-          "filled": {
-            "value": "{Shades.1000}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{Purple.500}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{Shades.500}",
-            "type": "color"
-          }
-        },
-        "border": {
-          "default": {
-            "value": "{Shades.300}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{Purple.500}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{Shades.200}",
-            "type": "color"
-          }
-        }
-      },
-      "border-radius": {
-        "value": "{radii-8}",
-        "type": "borderRadius"
-      }
-    },
-    "comp": {
-      "button": {
-        "padding-left": {
-          "value": "{spacing-16}",
-          "type": "spacing"
-        },
-        "padding-right": {
-          "value": "{spacing-16}",
-          "type": "spacing"
-        },
-        "height-small": {
-          "value": "{sizing-32}",
-          "type": "sizing"
-        },
-        "height-medium": {
-          "value": "{sizing-40}",
-          "type": "sizing"
-        },
-        "height-large": {
-          "value": "{sizing-48}",
-          "type": "sizing"
-        }
-      },
-      "menu": {
-        "padding-left": {
-          "value": "{spacing-16}",
-          "type": "spacing"
-        },
-        "padding-right": {
-          "value": "{spacing-16}",
-          "type": "spacing"
-        },
-        "height-small": {
-          "value": "{sizing-40}",
-          "type": "sizing"
-        },
-        "height-medium": {
-          "value": "{sizing-48}",
-          "type": "sizing"
-        },
-        "height-large": {
-          "value": "{sizing-56}",
-          "type": "sizing"
-        }
-      },
-      "text-field": {
-        "padding-left": {
-          "value": "{spacing-16}",
-          "type": "spacing"
-        },
-        "padding-right": {
-          "value": "{spacing-16}",
-          "type": "spacing"
-        }
-      },
-      "dropdown": {
-        "padding-left": {
-          "value": "{spacing-16}",
-          "type": "spacing"
-        },
-        "padding-right": {
-          "value": "{spacing-16}",
-          "type": "spacing"
-        },
-        "height-small": {
-          "value": "{sizing-36}",
-          "type": "sizing"
-        },
-        "height-medium": {
-          "value": "{sizing-40}",
-          "type": "sizing"
-        },
-        "height-large": {
-          "value": "{sizing-48}",
-          "type": "sizing"
-        },
-        "item": {
-          "padding-left": {
-            "value": "{spacing-16}",
-            "type": "spacing"
-          },
-          "padding-right": {
-            "value": "{spacing-16}",
-            "type": "spacing"
-          },
-          "padding-top": {
-            "value": "{spacing-8}",
-            "type": "spacing"
-          },
-          "padding-bottom": {
-            "value": "{spacing-8}",
-            "type": "spacing"
-          }
-        }
-      },
-      "card": {
-        "small": {
-          "padding-left": {
-            "value": "{spacing-16}",
-            "type": "spacing"
-          },
-          "padding-right": {
-            "value": "{spacing-16}",
-            "type": "spacing"
-          },
-          "padding-top": {
-            "value": "{spacing-16}",
-            "type": "spacing"
-          },
-          "padding-bottom": {
-            "value": "{spacing-16}",
-            "type": "spacing"
-          }
-        },
-        "medium": {
-          "padding-left": {
-            "value": "{spacing-24}",
-            "type": "spacing"
-          },
-          "padding-right": {
-            "value": "{spacing-24}",
-            "type": "spacing"
-          },
-          "padding-top": {
-            "value": "{spacing-24}",
-            "type": "spacing"
-          },
-          "padding-bottom": {
-            "value": "{spacing-24}",
-            "type": "spacing"
-          }
-        },
-        "large": {
-          "padding-left": {
-            "value": "{spacing-32}",
-            "type": "spacing"
-          },
-          "padding-right": {
-            "value": "{spacing-32}",
-            "type": "spacing"
-          },
-          "padding-top": {
-            "value": "{spacing-32}",
-            "type": "spacing"
-          },
-          "padding-bottom": {
-            "value": "{spacing-32}",
-            "type": "spacing"
-          }
-        }
-      },
-      "tag": {
-        "padding-left": {
-          "value": "{spacing-8}",
-          "type": "spacing"
-        },
-        "padding-right": {
-          "value": "{spacing-8}",
-          "type": "spacing"
-        },
-        "height-small": {
-          "value": "{sizing-16}",
-          "type": "sizing"
-        },
-        "height-medium": {
-          "value": "{sizing-24}",
-          "type": "sizing"
-        },
-        "height-large": {
-          "value": "{sizing-36}",
-          "type": "sizing"
-        }
-      },
-      "notification": {
-        "padding-left": {
-          "value": "{spacing-16}",
-          "type": "spacing"
-        },
-        "padding-right": {
-          "value": "{spacing-20}",
-          "type": "spacing"
-        },
-        "paddding-top": {
-          "value": "{spacing-16}",
-          "type": "spacing"
-        },
-        "padding-bottom": {
-          "value": "{spacing-16}",
-          "type": "spacing"
-        }
-      },
-      "tooltip": {
-        "padding-left": {
-          "value": "{spacing-16}",
-          "type": "spacing"
-        },
-        "padding-right": {
-          "value": "{spacing-16}",
-          "type": "spacing"
-        },
-        "padding-top": {
-          "value": "{spacing-12}",
-          "type": "spacing"
-        },
-        "padding-bottom": {
-          "value": "{spacing-12}",
-          "type": "spacing"
-        }
-      },
-      "navigation": {
-        "main-side": {
-          "nav-item": {
-            "padding-left": {
-              "value": "{spacing-20}",
-              "type": "spacing"
-            },
-            "padding-right": {
-              "value": "{spacing-12}",
-              "type": "spacing"
-            },
-            "list": {
-              "padding-left": {
-                "value": "{spacing-20}",
-                "type": "spacing"
-              },
-              "padding-right": {
-                "value": "{spacing-12}",
-                "type": "spacing"
-              },
-              "padding-top": {
-                "value": "{spacing-8}",
-                "type": "spacing"
-              },
-              "padding-bottom": {
-                "value": "{spacing-8}",
-                "type": "spacing"
-              }
-            }
-          }
-        },
-        "secondary-top": {
-          "padding-left": {
-            "value": "{spacing-12}",
-            "type": "spacing"
-          },
-          "padding-right": {
-            "value": "{spacing-24}",
-            "type": "spacing"
-          },
-          "height": {
-            "value": "{sizing-56}",
-            "type": "sizing"
-          }
-        },
-        "tertiary-top": {
-          "controls": {
-            "padding-left": {
-              "value": "{spacing-12}",
-              "type": "spacing"
-            },
-            "padding-right": {
-              "value": "{spacing-24}",
-              "type": "spacing"
-            },
-            "padding-top": {
-              "value": "{spacing-8}",
-              "type": "spacing"
-            },
-            "padding-bottom": {
-              "value": "{spacing-8}",
-              "type": "spacing"
-            }
-          },
-          "filtering": {
-            "padding-left": {
-              "value": "{spacing-24}",
-              "type": "spacing"
-            },
-            "padding-right": {
-              "value": "{spacing-24}",
-              "type": "spacing"
-            },
-            "padding-top": {
-              "value": "{spacing-24}",
-              "type": "spacing"
-            },
-            "padding-bottom": {
-              "value": "{spacing-16}",
-              "type": "spacing"
-            }
-          }
-        }
-      },
-      "charts": {
-        "ledger": {
-          "padding-left": {
-            "value": "{spacing-24}",
-            "type": "spacing"
-          },
-          "padding-right": {
-            "value": "{spacing-24}",
-            "type": "spacing"
-          },
-          "padding-top": {
-            "value": "{spacing-16}",
-            "type": "spacing"
-          },
-          "padding-bottom": {
-            "value": "{spacing-16}",
-            "type": "spacing"
-          }
-        }
-      },
-      "kanban-board": {
-        "padding-left": {
-          "value": "{spacing-4}",
-          "type": "spacing"
-        },
-        "padding-right": {
-          "value": "{spacing-4}",
-          "type": "spacing"
-        },
-        "padding-top": {
-          "value": "{spacing-4}",
-          "type": "spacing"
-        }
-      },
-      "textfield": {
-        "height-small": {
-          "value": "{sizing-40}",
-          "type": "sizing"
-        },
-        "height-medium": {
-          "value": "{sizing-48}",
-          "type": "sizing"
-        },
-        "height-large": {
-          "value": "{sizing-56}",
-          "type": "sizing"
-        }
-      },
-      "progressindicator": {
-        "bar": {
-          "height-small": {
-            "value": "{sizing-4}",
-            "type": "sizing"
-          },
-          "height-medium": {
-            "value": "{sizing-8}",
-            "type": "sizing"
-          },
-          "height-large": {
-            "value": "{sizing-12}",
-            "type": "sizing"
-          }
-        },
-        "round": {
-          "height-small": {
-            "value": "{sizing-24}",
-            "type": "sizing"
-          },
-          "height-medium": {
-            "value": "{sizing-32}",
-            "type": "sizing"
-          },
-          "height-large": {
-            "value": "{sizing-48}",
-            "type": "sizing"
-          }
-        }
-      }
-    },
-    "tag": {
-      "tex-icon": {
-        "default": {
-          "value": "{Shades.1000}",
+      "On Background": {
+        "Default": {
+          "value": "#eae9f0",
           "type": "color"
         }
       },
-      "background": {
-        "default": {
-          "value": "{Shades.100}",
+      "On Neutral": {
+        "Default": {
+          "value": "#eae9f0",
           "type": "color"
-        }
-      },
-      "border-radius": {
-        "value": "{radii-4}",
-        "type": "borderRadius"
-      }
-    },
-    "notification": {
-      "background": {
-        "default": {
-          "value": "{Shades.600}",
-          "type": "color"
-        }
-      },
-      "text": {
-        "body": {
-          "value": "{Shades.300}",
-          "type": "color"
-        },
-        "header": {
-          "value": "{Shades.000}",
-          "type": "color"
-        }
-      },
-      "actions": {
-        "default": {
-          "value": "{Shades.000}",
-          "type": "color"
-        }
-      },
-      "border-radius": {
-        "value": "{radii-8}",
-        "type": "borderRadius"
-      }
-    },
-    "tooltip": {
-      "icon": {
-        "default": {
-          "value": "{Shades.500}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{Purple.500}",
-          "type": "color"
-        }
-      },
-      "text": {
-        "default": {
-          "value": "{Shades.1000}",
-          "type": "color"
-        }
-      },
-      "border": {
-        "default": {
-          "value": "{Shades.300}",
-          "type": "color"
-        }
-      },
-      "background": {
-        "default": {
-          "value": "{Shades.000}",
-          "type": "color"
-        }
-      },
-      "border-radius": {
-        "value": "{radii-8}",
-        "type": "borderRadius"
-      }
-    },
-    "progressindicator": {
-      "bar": {
-        "filled": {
-          "value": "{Purple.500}",
-          "type": "color"
-        },
-        "empty": {
-          "value": "{Purple.100}",
-          "type": "color"
-        },
-        "border-radius": {
-          "value": "{radii-4}",
-          "type": "borderRadius"
-        }
-      },
-      "round": {
-        "filled": {
-          "value": "{Purple.500}",
-          "type": "color"
-        },
-        "empty": {
-          "value": "{Purple.100}",
-          "type": "color"
-        }
-      },
-      "list": {
-        "background": {
-          "filled": {
-            "value": "{Aqua.700}",
-            "type": "color"
-          },
-          "empty": {
-            "value": "{Shades.000}",
-            "type": "color"
-          }
-        },
-        "icon": {
-          "filled": {
-            "value": "{Shades.000}",
-            "type": "color"
-          }
-        },
-        "border": {
-          "empty": {
-            "value": "{Shades.400}",
-            "type": "color"
-          }
-        }
-      }
-    },
-    "navigation": {
-      "main-side": {
-        "nav-item": {
-          "text-icon": {
-            "unselected": {
-              "value": "{Shades.700}",
-              "type": "color"
-            },
-            "selected": {
-              "value": "{Purple.500}",
-              "type": "color"
-            }
-          },
-          "background": {
-            "selected": {
-              "value": "{Purple.100}",
-              "type": "color"
-            }
-          },
-          "trail-icon": {
-            "unselected": {
-              "value": "{Shades.400}",
-              "type": "color"
-            },
-            "selected": {
-              "value": "{Purple.300}",
-              "type": "color"
-            }
-          },
-          "list": {
-            "nav-item-source": {
-              "text": {
-                "value": "{Shades.400}",
-                "type": "color"
-              }
-            },
-            "nav-item": {
-              "selected": {
-                "text": {
-                  "value": "{Purple.500}",
-                  "type": "color"
-                },
-                "background": {
-                  "value": "{Purple.100}",
-                  "type": "color"
-                }
-              },
-              "unselected": {
-                "text": {
-                  "value": "{Shades.1000}",
-                  "type": "color"
-                }
-              }
-            },
-            "border-radius": {
-              "value": "{radii-8}",
-              "type": "borderRadius"
-            }
-          }
-        },
-        "background": {
-          "default": {
-            "value": "{Purple.050}",
-            "type": "color"
-          }
-        },
-        "border": {
-          "default": {
-            "value": "{Shades.300}",
-            "type": "color"
-          }
-        }
-      },
-      "secondary-top": {
-        "breadcrumb": {
-          "selected": {
-            "value": "{Shades.700}",
-            "type": "color"
-          },
-          "unselected": {
-            "value": "{Shades.400}",
-            "type": "color"
-          }
-        },
-        "button": {
-          "background": {
-            "default": {
-              "value": "{Shades.100}",
-              "type": "color"
-            }
-          },
-          "icon": {
-            "default": {
-              "value": "{Shades.500}",
-              "type": "color"
-            }
-          }
-        },
-        "background": {
-          "default": {
-            "value": "{Shades.000}",
-            "type": "color"
-          }
-        },
-        "border": {
-          "default": {
-            "value": "{Shades.300}",
-            "type": "color"
-          }
-        },
-        "chevron": {
-          "value": "{radii-4}",
-          "type": "borderRadius"
-        }
-      },
-      "tertiary-top": {
-        "background": {
-          "default": {
-            "value": "{Shades.000}",
-            "type": "color"
-          }
-        },
-        "border": {
-          "default": {
-            "value": "{Shades.300}",
-            "type": "color"
-          }
-        }
-      }
-    },
-    "background": {
-      "screen": {
-        "normal": {
-          "value": "{Purple.050}",
-          "type": "color"
-        },
-        "page-overlay": {
-          "default": {
-            "value": "{Transparent.Black-20}",
-            "type": "color"
-          }
-        }
-      }
-    },
-    "charts": {
-      "items": {
-        "filled": {
-          "1": {
-            "value": "{Misc.Blue}",
-            "type": "color"
-          },
-          "2": {
-            "value": "{Misc.Pink}",
-            "type": "color"
-          },
-          "3": {
-            "value": "{Misc.Green}",
-            "type": "color"
-          },
-          "4": {
-            "value": "{Misc.Turqoise}",
-            "type": "color"
-          },
-          "5": {
-            "value": "{Misc.Orange}",
-            "type": "color"
-          },
-          "6": {
-            "value": "{Misc.Coral}",
-            "type": "color"
-          },
-          "7": {
-            "value": "{Misc.Purple}",
-            "type": "color"
-          },
-          "8": {
-            "value": "{Misc.Lime}",
-            "type": "color"
-          },
-          "9": {
-            "value": "{Misc.Red}",
-            "type": "color"
-          }
-        }
-      },
-      "XY-Axis-text": {
-        "default": {
-          "value": "{Shades.400}",
-          "type": "color"
-        },
-        "selected": {
-          "value": "{Shades.1000}",
-          "type": "color"
-        }
-      },
-      "grid": {
-        "default": {
-          "value": "{Shades.200}",
-          "type": "color"
-        }
-      },
-      "ledger": {
-        "text": {
-          "default": {
-            "value": "{Shades.1000}",
-            "type": "color"
-          }
-        },
-        "border": {
-          "default": {
-            "value": "{Shades.300}",
-            "type": "color"
-          }
-        },
-        "border-radius": {
-          "value": "{radii-8}",
-          "type": "borderRadius"
-        }
-      }
-    },
-    "list-item": {
-      "text-icon": {
-        "icon": {
-          "value": "{Shades.1000}",
-          "type": "color"
-        },
-        "default": {
-          "value": "{Shades.1000}",
-          "type": "color"
-        },
-        "overline": {
-          "value": "{Shades.500}",
-          "type": "color"
-        },
-        "description": {
-          "value": "{Shades.500}",
-          "type": "color"
-        },
-        "caption": {
-          "value": "{Shades.1000}",
-          "type": "color"
-        }
-      },
-      "underline": {
-        "default": {
-          "value": "{Shades.200}",
-          "type": "color"
-        }
-      }
-    },
-    "kanban-board": {
-      "background": {
-        "default": {
-          "value": "{Transparent.Black-02}",
-          "type": "color"
-        }
-      },
-      "card": {
-        "border": {
-          "default": {
-            "value": "{Shades.200}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{Shades.400}",
-            "type": "color"
-          }
-        },
-        "background": {
-          "value": "{Shades.000}",
-          "type": "color"
-        }
-      }
-    },
-    "Kanban-board": {
-      "background": {
-        "border-radius": {
-          "value": "{radii-8}",
-          "type": "borderRadius"
-        }
-      },
-      "card": {
-        "border-radius": {
-          "value": "{radii-4}",
-          "type": "borderRadius"
-        }
-      }
-    },
-    "Dropdown": {
-      "item": {
-        "one-line": {
-          "value": "{sizing-40}",
-          "type": "sizing"
-        },
-        "two-line": {
-          "value": "{sizing-48}",
-          "type": "sizing"
         }
       }
     }
