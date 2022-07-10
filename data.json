@@ -2,65 +2,65 @@
   "Core": {
     "Purple": {
       "100": {
-        "value": "#F0EBFB",
+        "value": "hsla({Primary Hue}, 67%, 95%, 1)",
         "type": "color"
       },
       "200": {
-        "value": "#D0C9EF",
+        "value": "hsla({Primary Hue}, 54%, 86%, 1)",
         "type": "color"
       },
       "300": {
-        "value": "#A192DF",
+        "value": "hsla({Primary Hue}, 55%, 72%, 1)",
         "type": "color"
       },
       "400": {
-        "value": "#6F55D6",
+        "value": "hsla({Primary Hue}, 61%, 59%, 1)",
         "type": "color"
       },
       "500": {
-        "value": "#2f0db9",
+        "value": "hsla({Primary Hue}, 87%, 39%, 1)",
         "type": "color"
       },
       "600": {
-        "value": "#250899",
+        "value": "hsla({Primary Hue}, 90%, 32%, 1)",
         "type": "color"
       },
       "700": {
-        "value": "#210062",
+        "value": "hsla({Primary Hue}, 100%, 19%, 1)",
         "type": "color"
       },
       "050": {
-        "value": "#F7F8FC",
+        "value": "hsla({Primary Hue}, 45%, 98%, 1)",
         "type": "color"
       }
     },
     "Aqua": {
       "100": {
-        "value": "#EAFAF6",
+        "value": "hsla({Secondary Hue}, 62%, 95%, 1)",
         "type": "color"
       },
       "200": {
-        "value": "#CBF3EA",
+        "value": "hsla({Secondary Hue}, 62%, 87%, 1)",
         "type": "color"
       },
       "300": {
-        "value": "#98E8D4",
+        "value": "hsla({Secondary Hue}, 63%, 75%, 1)",
         "type": "color"
       },
       "400": {
-        "value": "#64DCBF",
+        "value": "hsla({Secondary Hue}, 63%, 63%, 1)",
         "type": "color"
       },
       "500": {
-        "value": "#31D0AA",
+        "value": "hsla({Secondary Hue}, 63%, 50%, 1)",
         "type": "color"
       },
       "600": {
-        "value": "#2aba98",
+        "value": "hsla({Secondary Hue}, 63%, 45%, 1)",
         "type": "color"
       },
       "700": {
-        "value": "#1FA081",
+        "value": "hsla({Secondary Hue}, 68%, 37%, 1)",
         "type": "color"
       }
     },
@@ -881,6 +881,14 @@
     "sizing-768": {
       "value": "768",
       "type": "sizing"
+    },
+    "Primary Hue": {
+      "value": "252",
+      "type": "other"
+    },
+    "Secondary Hue": {
+      "value": "166",
+      "type": "other"
     }
   },
   "Altura": {
