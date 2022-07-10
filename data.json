@@ -1,6 +1,14 @@
 {
   "Core": {
     "Purple": {
+      "25": {
+        "value": "hsla({Primary Hue}, 25%, 98%, 1)",
+        "type": "color"
+      },
+      "50": {
+        "value": "hsla({Primary Hue}, 45%, 98%, 1)",
+        "type": "color"
+      },
       "100": {
         "value": "hsla({Primary Hue}, 67%, 95%, 1)",
         "type": "color"
@@ -27,10 +35,6 @@
       },
       "700": {
         "value": "hsla({Primary Hue}, 100%, 19%, 1)",
-        "type": "color"
-      },
-      "050": {
-        "value": "hsla({Primary Hue}, 45%, 98%, 1)",
         "type": "color"
       }
     },
@@ -903,7 +907,7 @@
     "Surfaces": {
       "Background": {
         "Default": {
-          "value": "{Purple.050}",
+          "value": "{Purple.25}",
           "type": "color"
         },
         "Hover": {
@@ -975,7 +979,7 @@
           "type": "color"
         },
         "Subdued": {
-          "value": "{Shades.500}",
+          "value": "{Shades.400}",
           "type": "color"
         },
         "Hover": {
@@ -1001,7 +1005,7 @@
           "type": "color"
         },
         "Subdued": {
-          "value": "{Shades.500}",
+          "value": "{Shades.400}",
           "type": "color"
         },
         "Hover": {
@@ -1066,7 +1070,7 @@
         "type": "color"
       },
       "Subdued": {
-        "value": "{Shades.500}",
+        "value": "{Shades.400}",
         "type": "color"
       },
       "Whisper": {
@@ -1083,7 +1087,7 @@
           "type": "color"
         },
         "Subdued": {
-          "value": "{Shades.500}",
+          "value": "{Shades.400}",
           "type": "color"
         },
         "Hover": {
@@ -1109,7 +1113,7 @@
           "type": "color"
         },
         "Subdued": {
-          "value": "{Shades.500}",
+          "value": "{Shades.400}",
           "type": "color"
         },
         "Hover": {
