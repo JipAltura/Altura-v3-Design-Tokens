@@ -907,7 +907,7 @@
     "Surfaces": {
       "Background": {
         "Default": {
-          "value": "{Purple.25}",
+          "value": "{Shades.25}",
           "type": "color"
         },
         "Hover": {
