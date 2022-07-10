@@ -116,56 +116,6 @@
         "type": "color"
       }
     },
-    "Shades": {
-      "100": {
-        "value": "#F5F6F7",
-        "type": "color"
-      },
-      "200": {
-        "value": "#EBEDF0",
-        "type": "color"
-      },
-      "300": {
-        "value": "#CDD1D9",
-        "type": "color"
-      },
-      "400": {
-        "value": "#A8AFBD",
-        "type": "color"
-      },
-      "450": {
-        "value": "#788195",
-        "type": "color"
-      },
-      "500": {
-        "value": "#676F7D",
-        "type": "color"
-      },
-      "600": {
-        "value": "#2F343F",
-        "type": "color"
-      },
-      "700": {
-        "value": "#1C252E",
-        "type": "color"
-      },
-      "800": {
-        "value": "#11171C",
-        "type": "color"
-      },
-      "1000": {
-        "value": "#000000",
-        "type": "color"
-      },
-      "050": {
-        "value": "#FAFBFB",
-        "type": "color"
-      },
-      "000": {
-        "value": "#ffffff",
-        "type": "color"
-      }
-    },
     "Transparent": {
       "White-80": {
         "value": "rgba(255,255,255,0.8)",
@@ -889,6 +839,64 @@
     "Secondary Hue": {
       "value": "166",
       "type": "other"
+    },
+    "Shade Hue": {
+      "value": "207",
+      "type": "other"
+    },
+    "Shade Saturation": {
+      "value": "15%",
+      "type": "other"
+    },
+    "Shades": {
+      "0": {
+        "value": "hsla({Shade Hue}, {Shade Saturation}, 100%, 1)",
+        "type": "color"
+      },
+      "25": {
+        "value": "hsla({Shade Hue}, {Shade Saturation}, 98%, 1)",
+        "type": "color"
+      },
+      "50": {
+        "value": "hsla({Shade Hue}, {Shade Saturation}, 95%, 1)",
+        "type": "color"
+      },
+      "100": {
+        "value": "hsla({Shade Hue}, {Shade Saturation}, 90%, 1)",
+        "type": "color"
+      },
+      "200": {
+        "value": "hsla({Shade Hue}, {Shade Saturation}, 80%, 1)",
+        "type": "color"
+      },
+      "300": {
+        "value": "hsla({Shade Hue}, {Shade Saturation}, 70%, 1)",
+        "type": "color"
+      },
+      "400": {
+        "value": "hsla({Shade Hue}, {Shade Saturation}, 60%, 1)",
+        "type": "color"
+      },
+      "500": {
+        "value": "hsla({Shade Hue}, {Shade Saturation}, 50%, 1)",
+        "type": "color"
+      },
+      "600": {
+        "value": "hsla({Shade Hue}, {Shade Saturation}, 40%, 1)",
+        "type": "color"
+      },
+      "700": {
+        "value": "hsla({Shade Hue}, {Shade Saturation}, 30%, 1)",
+        "type": "color"
+      },
+      "800": {
+        "value": "hsla({Shade Hue}, {Shade Saturation}, 20%, 1)",
+        "type": "color"
+      },
+      "900": {
+        "value": "hsla({Shade Hue}, {Shade Saturation}, 10%, 1)",
+        "type": "color"
+      }
     }
   },
   "Altura": {
@@ -909,19 +917,19 @@
       },
       "Neutral": {
         "Default": {
-          "value": "{Shades.000}",
+          "value": "{Shades.0}",
           "type": "color"
         },
         "Hover": {
-          "value": "{Shades.100}",
+          "value": "{Shades.25}",
           "type": "color"
         },
         "Active": {
-          "value": "{Shades.200}",
+          "value": "{Shades.50}",
           "type": "color"
         },
         "Disabled": {
-          "value": "{Shades.100}",
+          "value": "{Shades.25}",
           "type": "color"
         }
       },
@@ -939,39 +947,39 @@
           "type": "color"
         },
         "Disabled": {
-          "value": "{Shades.100}",
+          "value": "{Shades.25}",
           "type": "color"
         }
       }
     },
     "Text": {
       "Default": {
-        "value": "{Shades.800}",
+        "value": "{Shades.900}",
         "type": "color"
       },
       "Subdued": {
-        "value": "{Shades.450}",
+        "value": "{Shades.500}",
         "type": "color"
       },
       "Whisper": {
-        "value": "{Shades.300}",
+        "value": "{Shades.200}",
         "type": "color"
       },
       "Disabled": {
-        "value": "{Shades.200}",
+        "value": "{Shades.100}",
         "type": "color"
       },
       "On Background": {
         "Default": {
-          "value": "{Shades.800}",
+          "value": "{Shades.900}",
           "type": "color"
         },
         "Subdued": {
-          "value": "{Shades.450}",
+          "value": "{Shades.500}",
           "type": "color"
         },
         "Hover": {
-          "value": "{Shades.800}",
+          "value": "{Shades.900}",
           "type": "color"
         },
         "Active": {
@@ -989,29 +997,29 @@
       },
       "On Neutral": {
         "Default": {
-          "value": "{Shades.800}",
+          "value": "{Shades.900}",
           "type": "color"
         },
         "Subdued": {
-          "value": "{Shades.450}",
+          "value": "{Shades.500}",
           "type": "color"
         },
         "Hover": {
-          "value": "{Shades.800}",
+          "value": "{Shades.900}",
           "type": "color"
         },
         "Active": {
-          "value": "{Shades.800}",
+          "value": "{Shades.900}",
           "type": "color"
         },
         "Disabled": {
-          "value": "{Shades.300}",
+          "value": "{Shades.200}",
           "type": "color"
         }
       },
       "On Primary": {
         "Default": {
-          "value": "{Shades.000}",
+          "value": "{Shades.0}",
           "type": "color"
         },
         "Subdued": {
@@ -1019,15 +1027,15 @@
           "type": "color"
         },
         "Hover": {
-          "value": "{Shades.000}",
+          "value": "{Shades.0}",
           "type": "color"
         },
         "Active": {
-          "value": "{Shades.000}",
+          "value": "{Shades.0}",
           "type": "color"
         },
         "Disabled": {
-          "value": "{Shades.300}",
+          "value": "{Shades.200}",
           "type": "color"
         }
       }
@@ -1054,32 +1062,32 @@
     },
     "Icon": {
       "Default": {
-        "value": "{Shades.800}",
+        "value": "{Shades.900}",
         "type": "color"
       },
       "Subdued": {
-        "value": "{Shades.450}",
+        "value": "{Shades.500}",
         "type": "color"
       },
       "Whisper": {
-        "value": "{Shades.300}",
+        "value": "{Shades.200}",
         "type": "color"
       },
       "Disabled": {
-        "value": "{Shades.200}",
+        "value": "{Shades.100}",
         "type": "color"
       },
       "On Background": {
         "Default": {
-          "value": "{Shades.800}",
+          "value": "{Shades.900}",
           "type": "color"
         },
         "Subdued": {
-          "value": "{Shades.450}",
+          "value": "{Shades.500}",
           "type": "color"
         },
         "Hover": {
-          "value": "{Shades.800}",
+          "value": "{Shades.900}",
           "type": "color"
         },
         "Active": {
@@ -1097,29 +1105,29 @@
       },
       "On Neutral": {
         "Default": {
-          "value": "{Shades.800}",
+          "value": "{Shades.900}",
           "type": "color"
         },
         "Subdued": {
-          "value": "{Shades.450}",
+          "value": "{Shades.500}",
           "type": "color"
         },
         "Hover": {
-          "value": "{Shades.800}",
+          "value": "{Shades.900}",
           "type": "color"
         },
         "Active": {
-          "value": "{Shades.800}",
+          "value": "{Shades.900}",
           "type": "color"
         },
         "Disabled": {
-          "value": "{Shades.300}",
+          "value": "{Shades.200}",
           "type": "color"
         }
       },
       "On Primary": {
         "Default": {
-          "value": "{Shades.000}",
+          "value": "{Shades.0}",
           "type": "color"
         },
         "Subdued": {
@@ -1127,37 +1135,37 @@
           "type": "color"
         },
         "Hover": {
-          "value": "{Shades.000}",
+          "value": "{Shades.0}",
           "type": "color"
         },
         "Active": {
-          "value": "{Shades.000}",
+          "value": "{Shades.0}",
           "type": "color"
         },
         "Disabled": {
-          "value": "{Shades.300}",
+          "value": "{Shades.200}",
           "type": "color"
         }
       }
     },
     "Border": {
       "Default": {
-        "value": "{Shades.200}",
+        "value": "{Shades.100}",
         "type": "color"
       },
       "Loud": {
-        "value": "{Shades.300}",
+        "value": "{Shades.200}",
         "type": "color"
       },
       "On Background": {
         "Default": {
-          "value": "{Shades.200}",
+          "value": "{Shades.100}",
           "type": "color"
         }
       },
       "On Neutral": {
         "Default": {
-          "value": "{Shades.200}",
+          "value": "{Shades.100}",
           "type": "color"
         }
       }
