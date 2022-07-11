@@ -1047,19 +1047,19 @@
     "Action": {
       "Primary": {
         "Default": {
-          "value": "#2f0db9",
+          "value": "{Purple.500}",
           "type": "color"
         },
         "Hover": {
-          "value": "#2e0fa9",
+          "value": "{Purple.600}",
           "type": "color"
         },
         "Active": {
-          "value": "#280f8d",
+          "value": "{Purple.700}",
           "type": "color"
         },
         "Disabled": {
-          "value": "#eef0f4",
+          "value": "{Shades.50}",
           "type": "color"
         }
       }
