@@ -1728,6 +1728,44 @@
         "value": "{Shades.300}",
         "type": "color"
       }
+    },
+    "ChartItems": {
+      "Blue": {
+        "value": "{Misc.Blue}",
+        "type": "color"
+      },
+      "Pink": {
+        "value": "{Misc.Pink}",
+        "type": "color"
+      },
+      "Green": {
+        "value": "{Misc.Green}",
+        "type": "color"
+      },
+      "Turqoise": {
+        "value": "{Misc.Turqoise}",
+        "type": "color"
+      },
+      "Orange": {
+        "value": "{Misc.Orange}",
+        "type": "color"
+      },
+      "Coral": {
+        "value": "{Misc.Coral}",
+        "type": "color"
+      },
+      "Purple": {
+        "value": "{Misc.Purple}",
+        "type": "color"
+      },
+      "Lime": {
+        "value": "{Misc.Lime}",
+        "type": "color"
+      },
+      "Red": {
+        "value": "{Misc.Red}",
+        "type": "color"
+      }
     }
   },
   "$themes": []
