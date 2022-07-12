@@ -1197,103 +1197,103 @@
     "Surface": {
       "Surface": {
         "Default": {
-          "value": "#ffffff",
+          "value": "{Shades.0}",
           "type": "color"
         },
         "Subdued": {
-          "value": "#fafbfb",
+          "value": "{Shades.25}",
           "type": "color"
         },
         "Hovered": {
-          "value": "#f6f6f7",
+          "value": "{Shades.25}",
           "type": "color"
         },
         "Pressed": {
-          "value": "#f1f2f3",
+          "value": "{Shades.50}",
           "type": "color"
         },
         "Depressed": {
-          "value": "#edeeef",
+          "value": "{Shades.50}",
           "type": "color"
         },
         "Disabled": {
-          "value": "#fafbfb",
+          "value": "{Shades.25}",
           "type": "color"
         }
       },
       "Surface Selected": {
         "Default": {
-          "value": "#f2f7fe",
+          "value": "{Purple.100}",
           "type": "color"
         },
         "Hovered": {
-          "value": "#edf4fe",
+          "value": "{Purple.100}",
           "type": "color"
         },
         "Pressed": {
-          "value": "#e5effd",
+          "value": "{Purple.200}",
           "type": "color"
         }
       },
       "Surface Warning": {
         "Default": {
-          "value": "#ffd79d",
+          "value": "{Orange.200}",
           "type": "color",
           "description": "Use for badges"
         },
         "Subdued": {
-          "value": "#fff5ea",
+          "value": "{Orange.100}",
           "type": "color",
           "description": "Used for banners"
         },
         "Subdued Hovered": {
-          "value": "#fff2e2",
+          "value": "{Orange.200}",
           "type": "color"
         },
         "Subdued Pressed": {
-          "value": "#ffebd3",
+          "value": "{Orange.300}",
           "type": "color"
         }
       },
       "Surface Critical": {
         "Default": {
-          "value": "#fed3d1",
+          "value": "{Red.200}",
           "type": "color"
         },
         "Subdued": {
-          "value": "#fff4f4",
+          "value": "{Red.100}",
           "type": "color"
         },
         "Subdued Hovered": {
-          "value": "#fff0f0",
+          "value": "{Red.200}",
           "type": "color",
           "description": "Used on action lists"
         },
         "Subdued Pressed": {
-          "value": "#ffe9e8",
+          "value": "{Red.300}",
           "type": "color"
         },
         "Subdued Depressed": {
-          "value": "#febcb9",
+          "value": "{Red.400}",
           "type": "color"
         }
       },
       "Surface Success": {
         "Default": {
-          "value": "#aee9d1",
+          "value": "{Aqua.300}",
           "type": "color",
           "description": "S: 40, L: 89.9"
         },
         "Subdued": {
-          "value": "#f1f8f5",
+          "value": "{Aqua.100}",
           "type": "color"
         },
         "Subdued Hovered": {
-          "value": "#ecf6f1",
+          "value": "{Aqua.200}",
           "type": "color"
         },
         "Subdued Pressed": {
-          "value": "#e2f1ea",
+          "value": "{Aqua.300}",
           "type": "color"
         }
       },
@@ -1317,37 +1317,37 @@
       },
       "Surface Neutral": {
         "Default": {
-          "value": "#e4e5e7",
+          "value": "{Shades.50}",
           "type": "color"
         },
         "Subdued": {
-          "value": "#f6f6f7",
+          "value": "{Shades.25}",
           "type": "color"
         },
         "Hovered": {
-          "value": "#dbdddf",
+          "value": "{Shades.100}",
           "type": "color"
         },
         "Pressed": {
-          "value": "#c9ccd0",
+          "value": "{Shades.200}",
           "type": "color"
         },
         "Disabled": {
-          "value": "#f1f2f3",
+          "value": "{Shades.50}",
           "type": "color"
         }
       },
       "Surface Primary": {
         "Selected": {
-          "value": "#f1f8f5",
+          "value": "{Purple.100}",
           "type": "color"
         },
         "Selected Hovered": {
-          "value": "#b3d0c3",
+          "value": "{Purple.200}",
           "type": "color"
         },
         "Selected Pressed": {
-          "value": "#a2bcb0",
+          "value": "{Purple.300}",
           "type": "color"
         }
       }
