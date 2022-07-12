@@ -1717,11 +1717,11 @@
     },
     "Other": {
       "Backdrop": {
-        "value": "#00000080",
+        "value": "{Shades.25}",
         "type": "color"
       },
       "Overlay": {
-        "value": "#ffffff80",
+        "value": "{Transparent.Black-20}",
         "type": "color"
       },
       "Divider": {
