@@ -1237,7 +1237,7 @@
       },
       "Surface Warning": {
         "Default": {
-          "value": "{Orange.200}",
+          "value": "{Orange.300}",
           "type": "color",
           "description": "Use for badges"
         },
@@ -1257,7 +1257,7 @@
       },
       "Surface Critical": {
         "Default": {
-          "value": "{Red.200}",
+          "value": "{Red.300}",
           "type": "color"
         },
         "Subdued": {
@@ -1355,59 +1355,59 @@
     "Text": {
       "Text": {
         "Default": {
-          "value": "#202223",
+          "value": "{Shades.900}",
           "type": "color"
         },
         "Subdued": {
-          "value": "#6d7175",
+          "value": "{Shades.500}",
           "type": "color"
         },
         "Disabled": {
-          "value": "#8c9196",
+          "value": "{Shades.100}",
           "type": "color"
         },
         "Critical": {
-          "value": "#d72c0d",
+          "value": "{Red.500}",
           "type": "color"
         },
         "Warning": {
-          "value": "#916a00",
+          "value": "{Orange.500}",
           "type": "color"
         },
         "Success": {
-          "value": "#008060",
+          "value": "{Aqua.700}",
           "type": "color"
         },
         "Highlight": {
-          "value": "#347c84",
+          "value": "{Purple.400}",
           "type": "color"
         }
       },
       "Text On": {
         "Interactive": {
-          "value": "#ffffff",
+          "value": "{Shades.0}",
           "type": "color"
         },
         "Primary": {
-          "value": "#ffffff",
+          "value": "{Shades.0}",
           "type": "color"
         },
         "Critical": {
-          "value": "#ffffff",
+          "value": "{Shades.0}",
           "type": "color"
         }
       },
       "Text Primary": {
         "Default": {
-          "value": "#007b5c",
+          "value": "{Purple.500}",
           "type": "color"
         },
         "hover": {
-          "value": "#006c50",
+          "value": "{Purple.600}",
           "type": "color"
         },
         "Pressed": {
-          "value": "#005c44",
+          "value": "{Purple.700}",
           "type": "color"
         }
       }
@@ -1415,35 +1415,35 @@
     "Icon": {
       "Icon": {
         "Default": {
-          "value": "#5c5f62",
+          "value": "{Shades.900}",
           "type": "color"
         },
         "Subdued": {
-          "value": "#8c9196",
+          "value": "{Shades.500}",
           "type": "color"
         },
         "Hovered": {
-          "value": "#1a1c1d",
+          "value": "{Shades.900}",
           "type": "color"
         },
         "Pressed": {
-          "value": "#44474a",
+          "value": "{Shades.900}",
           "type": "color"
         },
         "Disabled": {
-          "value": "#babec3",
+          "value": "{Shades.100}",
           "type": "color"
         },
         "Critical": {
-          "value": "#d72c0d",
+          "value": "{Red.500}",
           "type": "color"
         },
         "Warning": {
-          "value": "#b98900",
+          "value": "{Orange.500}",
           "type": "color"
         },
         "Success": {
-          "value": "#007f5f",
+          "value": "{Aqua.700}",
           "type": "color"
         },
         "Highlight": {
@@ -1453,15 +1453,15 @@
       },
       "Icon On": {
         "Interactive": {
-          "value": "#ffffff",
+          "value": "{Shades.0}",
           "type": "color"
         },
         "Primary": {
-          "value": "#ffffff",
+          "value": "{Shades.0}",
           "type": "color"
         },
         "Critical": {
-          "value": "#ffffff",
+          "value": "{Shades.0}",
           "type": "color"
         }
       }
@@ -1469,35 +1469,35 @@
     "Interactive": {
       "Interactive": {
         "Default": {
-          "value": "#2c6ecb",
+          "value": "{Purple.500}",
           "type": "color"
         },
         "Hovered": {
-          "value": "#1f5199",
+          "value": "{Purple.600}",
           "type": "color"
         },
         "Pressed": {
-          "value": "#103262",
+          "value": "{Purple.700}",
           "type": "color"
         },
         "Disabled": {
-          "value": "#bdc1cc",
+          "value": "{Shades.100}",
           "type": "color"
         },
         "Critical": {
-          "value": "#d82c0d",
+          "value": "{Red.500}",
           "type": "color"
         },
         "Critical Hovered": {
-          "value": "#cd290c",
+          "value": "{Red.600}",
           "type": "color"
         },
         "Critical Pressed": {
-          "value": "#670f03",
+          "value": "{Red.600}",
           "type": "color"
         },
         "Critical Disabled": {
-          "value": "#fd938d",
+          "value": "{Red.300}",
           "type": "color"
         }
       }
@@ -1505,58 +1505,58 @@
     "Border": {
       "Border": {
         "Default": {
-          "value": "#8c9196",
+          "value": "{Shades.300}",
           "type": "color",
           "description": "3:1 AA Contrast required"
         },
         "Subdued": {
-          "value": "#c9cccf",
+          "value": "{Shades.200}",
           "type": "color"
         },
         "Hovered": {
-          "value": "#999ea4",
+          "value": "{Shades.400}",
           "type": "color"
         },
         "Depressed": {
-          "value": "#575959",
+          "value": "{Shades.500}",
           "type": "color"
         },
         "Disabled": {
-          "value": "#d2d5d8",
+          "value": "{Shades.200}",
           "type": "color"
         }
       },
       "Border Critical": {
         "Default": {
-          "value": "#fd5749",
+          "value": "{Red.500}",
           "type": "color"
         },
         "Subdued": {
-          "value": "#e0b3b2",
+          "value": "{Red.300}",
           "type": "color"
         },
         "Disabled": {
-          "value": "#ffa7a3",
+          "value": "{Red.200}",
           "type": "color"
         }
       },
       "Border Warning": {
         "Default": {
-          "value": "#b98900",
+          "value": "{Orange.600}",
           "type": "color"
         },
         "Subdued": {
-          "value": "#e1b878",
+          "value": "{Orange.300}",
           "type": "color"
         }
       },
       "Border Success": {
         "Default": {
-          "value": "#00a47c",
+          "value": "{Aqua.700}",
           "type": "color"
         },
         "Subdued": {
-          "value": "#95c9b4",
+          "value": "{Aqua.300}",
           "type": "color"
         }
       },
