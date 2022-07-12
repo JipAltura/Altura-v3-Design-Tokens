@@ -1582,67 +1582,67 @@
     "Actions": {
       "Action Secondary": {
         "Default": {
-          "value": "#ffffff",
+          "value": "{Shades.0}",
           "type": "color"
         },
         "Hovered": {
-          "value": "#f6f6f7",
+          "value": "{Shades.50}",
           "type": "color"
         },
         "Pressed": {
-          "value": "#f1f2f3",
+          "value": "{Shades.100}",
           "type": "color"
         },
         "Depressed": {
-          "value": "#6d7175",
+          "value": "{Shades.300}",
           "type": "color"
         },
         "Disabled": {
-          "value": "#ffffff",
+          "value": "{Shades.0}",
           "type": "color"
         }
       },
       "Action Primary": {
         "Default": {
-          "value": "#008060",
+          "value": "{Purple.500}",
           "type": "color"
         },
         "Hovered": {
-          "value": "#006e52",
+          "value": "{Purple.600}",
           "type": "color"
         },
         "Pressed": {
-          "value": "#005e46",
+          "value": "{Purple.700}",
           "type": "color"
         },
         "Depressed": {
-          "value": "#003d2c",
+          "value": "{Purple.700}",
           "type": "color"
         },
         "Disabled": {
-          "value": "#f1f1f1",
+          "value": "{Shades.100}",
           "type": "color"
         }
       },
       "Action Critical": {
         "Default": {
-          "value": "#d82c0d",
+          "value": "{Red.500}",
           "type": "color"
         },
         "Hovered": {
-          "value": "#bc2200",
+          "value": "{Red.600}",
           "type": "color"
         },
         "Pressed": {
-          "value": "#a21b00",
+          "value": "{Red.600}",
           "type": "color"
         },
         "Depressed": {
-          "value": "#6c0f00",
+          "value": "{Red.600}",
           "type": "color"
         },
         "Disabled": {
-          "value": "#f1f1f1",
+          "value": "{Shades.100}",
           "type": "color"
         }
       }
@@ -1725,7 +1725,7 @@
         "type": "color"
       },
       "Divider": {
-        "value": "#e1e3e5",
+        "value": "{Shades.300}",
         "type": "color"
       }
     }
