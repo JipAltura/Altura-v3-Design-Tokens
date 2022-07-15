@@ -1235,8 +1235,16 @@
         "value": "{Purple.600}",
         "type": "color"
       },
+      "Hovered Subdued": {
+        "value": "{Shades.300}",
+        "type": "color"
+      },
       "Pressed": {
         "value": "{Purple.700}",
+        "type": "color"
+      },
+      "Pressed Subdued": {
+        "value": "{Purple.300}",
         "type": "color"
       },
       "Disabled": {
