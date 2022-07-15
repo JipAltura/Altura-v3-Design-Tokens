@@ -1193,6 +1193,24 @@
         "Critical": {
           "value": "{Shades.0}",
           "type": "color"
+        },
+        "Informative": {
+          "value": "{Shades.0}",
+          "type": "color"
+        }
+      },
+      "Icon Primary": {
+        "Default": {
+          "value": "{Purple.500}",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "{Purple.600}",
+          "type": "color"
+        },
+        "Pressed": {
+          "value": "{Purple.700}",
+          "type": "color"
         }
       }
     },
