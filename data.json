@@ -1077,7 +1077,7 @@
           "type": "color"
         },
         "Secondary": {
-          "value": "{Shades.500}",
+          "value": "{Shades.600}",
           "type": "color"
         },
         "Subdued": {
