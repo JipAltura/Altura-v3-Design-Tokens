@@ -1156,6 +1156,10 @@
           "value": "{Shades.400}",
           "type": "color"
         },
+        "Hover": {
+          "value": "{Shades.900}",
+          "type": "color"
+        },
         "Whisper": {
           "value": "{Shades.300}",
           "type": "color"
