@@ -1236,7 +1236,7 @@
         "type": "color"
       },
       "Disabled": {
-        "value": "{Shades.50}",
+        "value": "{Shades.25}",
         "type": "color"
       },
       "Critical": {
