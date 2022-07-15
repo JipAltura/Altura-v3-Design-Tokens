@@ -853,7 +853,7 @@
       "type": "other"
     },
     "Shade Saturation": {
-      "value": "15%",
+      "value": "10%",
       "type": "other"
     },
     "Shades": {
@@ -1153,7 +1153,7 @@
           "type": "color"
         },
         "Subdued": {
-          "value": "{Shades.400}",
+          "value": "{Shades.300}",
           "type": "color"
         },
         "Hover": {
@@ -1236,7 +1236,7 @@
         "type": "color"
       },
       "Disabled": {
-        "value": "{Shades.25}",
+        "value": "{Shades.100}",
         "type": "color"
       },
       "Critical": {
