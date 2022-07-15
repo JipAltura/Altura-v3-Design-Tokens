@@ -904,278 +904,6 @@
     }
   },
   "Altura": {
-    "Surfaces": {
-      "Background": {
-        "Default": {
-          "value": "{Shades.25}",
-          "type": "color"
-        },
-        "Hover": {
-          "value": "{Purple.100}",
-          "type": "color"
-        },
-        "Active": {
-          "value": "{Purple.100}",
-          "type": "color"
-        }
-      },
-      "Neutral": {
-        "Default": {
-          "value": "{Shades.0}",
-          "type": "color"
-        },
-        "Hover": {
-          "value": "{Shades.25}",
-          "type": "color"
-        },
-        "Active": {
-          "value": "{Shades.50}",
-          "type": "color"
-        },
-        "Disabled": {
-          "value": "{Shades.25}",
-          "type": "color"
-        }
-      },
-      "Primary": {
-        "Default": {
-          "value": "{Purple.500}",
-          "type": "color"
-        },
-        "Hover": {
-          "value": "{Purple.600}",
-          "type": "color"
-        },
-        "Active": {
-          "value": "{Purple.700}",
-          "type": "color"
-        },
-        "Disabled": {
-          "value": "{Shades.25}",
-          "type": "color"
-        }
-      }
-    },
-    "Text": {
-      "Default": {
-        "value": "{Shades.900}",
-        "type": "color"
-      },
-      "Subdued": {
-        "value": "{Shades.500}",
-        "type": "color"
-      },
-      "Whisper": {
-        "value": "{Shades.200}",
-        "type": "color"
-      },
-      "Disabled": {
-        "value": "{Shades.100}",
-        "type": "color"
-      },
-      "On Background": {
-        "Default": {
-          "value": "{Shades.900}",
-          "type": "color"
-        },
-        "Subdued": {
-          "value": "{Shades.400}",
-          "type": "color"
-        },
-        "Hover": {
-          "value": "{Shades.900}",
-          "type": "color"
-        },
-        "Active": {
-          "value": "{Purple.500}",
-          "type": "color"
-        },
-        "Active Subdued": {
-          "value": "{Purple.300}",
-          "type": "color"
-        },
-        "Disabled": {
-          "value": "{Purple.200}",
-          "type": "color"
-        }
-      },
-      "On Neutral": {
-        "Default": {
-          "value": "{Shades.900}",
-          "type": "color"
-        },
-        "Subdued": {
-          "value": "{Shades.400}",
-          "type": "color"
-        },
-        "Hover": {
-          "value": "{Shades.900}",
-          "type": "color"
-        },
-        "Active": {
-          "value": "{Shades.900}",
-          "type": "color"
-        },
-        "Disabled": {
-          "value": "{Shades.200}",
-          "type": "color"
-        }
-      },
-      "On Primary": {
-        "Default": {
-          "value": "{Shades.0}",
-          "type": "color"
-        },
-        "Subdued": {
-          "value": "{Purple.300}",
-          "type": "color"
-        },
-        "Hover": {
-          "value": "{Shades.0}",
-          "type": "color"
-        },
-        "Active": {
-          "value": "{Shades.0}",
-          "type": "color"
-        },
-        "Disabled": {
-          "value": "{Shades.200}",
-          "type": "color"
-        }
-      }
-    },
-    "Action": {
-      "Primary": {
-        "Default": {
-          "value": "{Purple.500}",
-          "type": "color"
-        },
-        "Hover": {
-          "value": "{Purple.600}",
-          "type": "color"
-        },
-        "Active": {
-          "value": "{Purple.700}",
-          "type": "color"
-        },
-        "Disabled": {
-          "value": "{Shades.50}",
-          "type": "color"
-        }
-      }
-    },
-    "Icon": {
-      "Default": {
-        "value": "{Shades.900}",
-        "type": "color"
-      },
-      "Subdued": {
-        "value": "{Shades.400}",
-        "type": "color"
-      },
-      "Whisper": {
-        "value": "{Shades.200}",
-        "type": "color"
-      },
-      "Disabled": {
-        "value": "{Shades.100}",
-        "type": "color"
-      },
-      "On Background": {
-        "Default": {
-          "value": "{Shades.900}",
-          "type": "color"
-        },
-        "Subdued": {
-          "value": "{Shades.400}",
-          "type": "color"
-        },
-        "Hover": {
-          "value": "{Shades.900}",
-          "type": "color"
-        },
-        "Active": {
-          "value": "{Purple.500}",
-          "type": "color"
-        },
-        "Active Subdued": {
-          "value": "{Purple.300}",
-          "type": "color"
-        },
-        "Disabled": {
-          "value": "{Purple.200}",
-          "type": "color"
-        }
-      },
-      "On Neutral": {
-        "Default": {
-          "value": "{Shades.900}",
-          "type": "color"
-        },
-        "Subdued": {
-          "value": "{Shades.400}",
-          "type": "color"
-        },
-        "Hover": {
-          "value": "{Shades.900}",
-          "type": "color"
-        },
-        "Active": {
-          "value": "{Shades.900}",
-          "type": "color"
-        },
-        "Disabled": {
-          "value": "{Shades.200}",
-          "type": "color"
-        }
-      },
-      "On Primary": {
-        "Default": {
-          "value": "{Shades.0}",
-          "type": "color"
-        },
-        "Subdued": {
-          "value": "{Purple.300}",
-          "type": "color"
-        },
-        "Hover": {
-          "value": "{Shades.0}",
-          "type": "color"
-        },
-        "Active": {
-          "value": "{Shades.0}",
-          "type": "color"
-        },
-        "Disabled": {
-          "value": "{Shades.200}",
-          "type": "color"
-        }
-      }
-    },
-    "Border": {
-      "Default": {
-        "value": "{Shades.100}",
-        "type": "color"
-      },
-      "Loud": {
-        "value": "{Shades.200}",
-        "type": "color"
-      },
-      "On Background": {
-        "Default": {
-          "value": "{Shades.100}",
-          "type": "color"
-        }
-      },
-      "On Neutral": {
-        "Default": {
-          "value": "{Shades.100}",
-          "type": "color"
-        }
-      }
-    }
-  },
-  "Polaris": {
     "Background": {
       "Default": {
         "value": "{Shades.25}",
@@ -1453,39 +1181,37 @@
       }
     },
     "Interactive": {
-      "Interactive": {
-        "Default": {
-          "value": "{Purple.500}",
-          "type": "color"
-        },
-        "Hovered": {
-          "value": "{Purple.600}",
-          "type": "color"
-        },
-        "Pressed": {
-          "value": "{Purple.700}",
-          "type": "color"
-        },
-        "Disabled": {
-          "value": "{Shades.100}",
-          "type": "color"
-        },
-        "Critical": {
-          "value": "{Red.500}",
-          "type": "color"
-        },
-        "Critical Hovered": {
-          "value": "{Red.600}",
-          "type": "color"
-        },
-        "Critical Pressed": {
-          "value": "{Red.600}",
-          "type": "color"
-        },
-        "Critical Disabled": {
-          "value": "{Red.300}",
-          "type": "color"
-        }
+      "Default": {
+        "value": "{Purple.500}",
+        "type": "color"
+      },
+      "Hovered": {
+        "value": "{Purple.600}",
+        "type": "color"
+      },
+      "Pressed": {
+        "value": "{Purple.700}",
+        "type": "color"
+      },
+      "Disabled": {
+        "value": "{Shades.100}",
+        "type": "color"
+      },
+      "Critical": {
+        "value": "{Red.500}",
+        "type": "color"
+      },
+      "Critical Hovered": {
+        "value": "{Red.600}",
+        "type": "color"
+      },
+      "Critical Pressed": {
+        "value": "{Red.600}",
+        "type": "color"
+      },
+      "Critical Disabled": {
+        "value": "{Red.300}",
+        "type": "color"
       }
     },
     "Border": {
@@ -1558,11 +1284,9 @@
       }
     },
     "Focused": {
-      "Focused": {
-        "Default": {
-          "value": "#458fff",
-          "type": "color"
-        }
+      "Default": {
+        "value": "#458fff",
+        "type": "color"
       }
     },
     "Actions": {
