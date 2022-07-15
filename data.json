@@ -1297,7 +1297,7 @@
           "type": "color"
         }
       },
-      "Surface Highlight": {
+      "Surface Informative": {
         "Default": {
           "value": "#a4e8f2",
           "type": "color"
@@ -1334,20 +1334,6 @@
         },
         "Disabled": {
           "value": "{Shades.50}",
-          "type": "color"
-        }
-      },
-      "Surface Primary": {
-        "Selected": {
-          "value": "{Purple.100}",
-          "type": "color"
-        },
-        "Selected Hovered": {
-          "value": "{Purple.200}",
-          "type": "color"
-        },
-        "Selected Pressed": {
-          "value": "{Purple.300}",
           "type": "color"
         }
       }
