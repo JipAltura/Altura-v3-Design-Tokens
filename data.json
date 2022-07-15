@@ -1283,6 +1283,10 @@
           "value": "{Shades.400}",
           "type": "color"
         },
+        "Focus": {
+          "value": "{Purple.600}",
+          "type": "color"
+        },
         "Depressed": {
           "value": "{Shades.500}",
           "type": "color"
