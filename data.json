@@ -1160,6 +1160,10 @@
           "value": "{Shades.900}",
           "type": "color"
         },
+        "Pressed": {
+          "value": "{Shades.900}",
+          "type": "color"
+        },
         "Whisper": {
           "value": "{Shades.300}",
           "type": "color"
