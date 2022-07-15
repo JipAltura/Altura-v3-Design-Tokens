@@ -1145,7 +1145,7 @@
     "Icon": {
       "Icon": {
         "Default": {
-          "value": "{Shades.900}",
+          "value": "{Shades.700}",
           "type": "color"
         },
         "Secondary": {
