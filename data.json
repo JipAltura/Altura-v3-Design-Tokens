@@ -1215,6 +1215,10 @@
         "Pressed": {
           "value": "{Purple.700}",
           "type": "color"
+        },
+        "Pressed Subdued": {
+          "value": "{Purple.300}",
+          "type": "color"
         }
       }
     },
