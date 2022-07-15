@@ -1372,11 +1372,11 @@
           "type": "color"
         },
         "Hovered": {
-          "value": "{Purple.700}",
+          "value": "{Purple.600}",
           "type": "color"
         },
         "Pressed": {
-          "value": "{Purple.800}",
+          "value": "{Purple.700}",
           "type": "color"
         },
         "Depressed": {
@@ -1384,7 +1384,7 @@
           "type": "color"
         },
         "Disabled": {
-          "value": "{Shades.100}",
+          "value": "{Shades.50}",
           "type": "color"
         }
       },
