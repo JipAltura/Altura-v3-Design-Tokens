@@ -1438,7 +1438,7 @@
           "type": "color"
         },
         "Six": {
-          "value": "{Purple.100}",
+          "value": "{Purple.200}",
           "type": "color"
         }
       },
