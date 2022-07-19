@@ -1436,6 +1436,10 @@
         "Five": {
           "value": "#fdc9d0",
           "type": "color"
+        },
+        "Six": {
+          "value": "{Purple.100}",
+          "type": "color"
         }
       },
       "Text": {
@@ -1458,6 +1462,10 @@
         "Five": {
           "value": "#4f0e1f",
           "type": "color"
+        },
+        "Six": {
+          "value": "{Shades.900}",
+          "type": "color"
         }
       },
       "Icon": {
@@ -1479,6 +1487,10 @@
         },
         "Five": {
           "value": "#ae2b4c",
+          "type": "color"
+        },
+        "Six": {
+          "value": "{Purple.500}",
           "type": "color"
         }
       }
