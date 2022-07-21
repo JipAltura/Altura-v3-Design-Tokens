@@ -96,6 +96,14 @@
       "600": {
         "value": "#C0332C",
         "type": "color"
+      },
+      "700": {
+        "value": "#a92e27",
+        "type": "color"
+      },
+      "800": {
+        "value": "#942722",
+        "type": "color"
       }
     },
     "Orange": {
@@ -1394,19 +1402,19 @@
       },
       "Action Critical": {
         "Default": {
-          "value": "{Red.500}",
+          "value": "{Red.600}",
           "type": "color"
         },
         "Hovered": {
-          "value": "{Red.600}",
+          "value": "{Red.700}",
           "type": "color"
         },
         "Pressed": {
-          "value": "{Red.600}",
+          "value": "{Red.800}",
           "type": "color"
         },
         "Depressed": {
-          "value": "{Red.600}",
+          "value": "{Red.800}",
           "type": "color"
         },
         "Disabled": {
