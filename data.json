@@ -175,40 +175,112 @@
       }
     },
     "Misc": {
-      "Blue": {
+      "Blue-50": {
+        "value": "rgba(66,133,244,0.5)",
+        "type": "color"
+      },
+      "Blue-100": {
         "value": "#4285F4",
         "type": "color"
       },
-      "Pink": {
+      "Blue-200": {
+        "value": "#2D69CC",
+        "type": "color"
+      },
+      "Pink-50": {
+        "value": "rgba(240,98,146,0.5)",
+        "type": "color"
+      },
+      "Pink-100": {
         "value": "#F06292",
         "type": "color"
       },
-      "Green": {
+      "Pink-200": {
+        "value": "#D0537E",
+        "type": "color"
+      },
+      "Green-50": {
+        "value": "rgba(13,157,88,0.5)",
+        "type": "color"
+      },
+      "Green-100": {
         "value": "#0D9D58",
         "type": "color"
       },
-      "Turqoise": {
+      "Green-200": {
+        "value": "#0D9D58",
+        "type": "color"
+      },
+      "Turqoise-50": {
+        "value": "rgba(37,195,215,0.5)",
+        "type": "color"
+      },
+      "Turqoise-100": {
         "value": "#25C3D7",
         "type": "color"
       },
-      "Orange": {
+      "Turqoise-200": {
+        "value": "#25C3D7",
+        "type": "color"
+      },
+      "Orange-50": {
+        "value": "rgba(245,180,0,0.5)",
+        "type": "color"
+      },
+      "Orange-100": {
         "value": "#F5B400",
         "type": "color"
       },
-      "Coral": {
+      "Orange-200": {
+        "value": "#DEA300",
+        "type": "color"
+      },
+      "Coral-50": {
+        "value": "rgba(255,112,66,0.5)",
+        "type": "color"
+      },
+      "Coral-100": {
         "value": "#FF7042",
         "type": "color"
       },
-      "Purple": {
+      "Coral-200": {
+        "value": "#D35D37",
+        "type": "color"
+      },
+      "Purple-50": {
+        "value": "rgba(171,71,188,0.5)",
+        "type": "color"
+      },
+      "Purple-100": {
         "value": "#AB47BC",
         "type": "color"
       },
-      "Lime": {
+      "Purple-200": {
+        "value": "#8C379A",
+        "type": "color"
+      },
+      "Lime-50": {
+        "value": "rgba(184,206,46,0.5)",
+        "type": "color"
+      },
+      "Lime-100": {
         "value": "#B8CE2E",
         "type": "color"
       },
-      "Red": {
+      "Lime-200": {
+        "value": "#97A927",
+        "type": "color"
+      },
+      "Red-50": {
+        "value": "rgba(240,77,64,0.5)",
+        "type": "color"
+      },
+      "Red-100": {
         "value": "#F04D40",
+        "type": "color"
+      },
+      "Red-200": {
+        "value": "#C23E33",
         "type": "color"
       }
     },
@@ -1519,39 +1591,39 @@
     },
     "ChartItems": {
       "Blue": {
-        "value": "{Misc.Blue}",
+        "value": "{Misc.Blue-100}",
         "type": "color"
       },
       "Pink": {
-        "value": "{Misc.Pink}",
+        "value": "{Misc.Pink-100}",
         "type": "color"
       },
       "Green": {
-        "value": "{Misc.Green}",
+        "value": "{Misc.Green-100}",
         "type": "color"
       },
       "Turqoise": {
-        "value": "{Misc.Turqoise}",
+        "value": "{Misc.Turqoise-100}",
         "type": "color"
       },
       "Orange": {
-        "value": "{Misc.Orange}",
+        "value": "{Misc.Orange-100}",
         "type": "color"
       },
       "Coral": {
-        "value": "{Misc.Coral}",
+        "value": "{Misc.Coral-100}",
         "type": "color"
       },
       "Purple": {
-        "value": "{Misc.Purple}",
+        "value": "{Misc.Purple-100}",
         "type": "color"
       },
       "Lime": {
-        "value": "{Misc.Lime}",
+        "value": "{Misc.Lime-100}",
         "type": "color"
       },
       "Red": {
-        "value": "{Misc.Red}",
+        "value": "{Misc.Red-100}",
         "type": "color"
       }
     }
