@@ -1590,40 +1590,112 @@
       }
     },
     "ChartItems": {
+      "Blue light": {
+        "value": "{Misc.Blue-50}",
+        "type": "color"
+      },
       "Blue": {
         "value": "{Misc.Blue-100}",
+        "type": "color"
+      },
+      "Pink light": {
+        "value": "{Misc.Pink-50}",
         "type": "color"
       },
       "Pink": {
         "value": "{Misc.Pink-100}",
         "type": "color"
       },
+      "Green light": {
+        "value": "{Misc.Green-50}",
+        "type": "color"
+      },
       "Green": {
         "value": "{Misc.Green-100}",
+        "type": "color"
+      },
+      "Turqoise light": {
+        "value": "{Misc.Turqoise-50}",
         "type": "color"
       },
       "Turqoise": {
         "value": "{Misc.Turqoise-100}",
         "type": "color"
       },
+      "Orange light": {
+        "value": "{Misc.Orange-50}",
+        "type": "color"
+      },
       "Orange": {
         "value": "{Misc.Orange-100}",
+        "type": "color"
+      },
+      "Coral light": {
+        "value": "{Misc.Coral-50}",
         "type": "color"
       },
       "Coral": {
         "value": "{Misc.Coral-100}",
         "type": "color"
       },
+      "Purple light": {
+        "value": "{Misc.Purple-50}",
+        "type": "color"
+      },
       "Purple": {
         "value": "{Misc.Purple-100}",
+        "type": "color"
+      },
+      "Lime light": {
+        "value": "{Misc.Lime-50}",
         "type": "color"
       },
       "Lime": {
         "value": "{Misc.Lime-100}",
         "type": "color"
       },
+      "Red light": {
+        "value": "{Misc.Red-50}",
+        "type": "color"
+      },
       "Red": {
         "value": "{Misc.Red-100}",
+        "type": "color"
+      },
+      "Blue dark": {
+        "value": "{Misc.Blue-200}",
+        "type": "color"
+      },
+      "Pink dark": {
+        "value": "{Misc.Pink-200}",
+        "type": "color"
+      },
+      "Green dark": {
+        "value": "{Misc.Green-200}",
+        "type": "color"
+      },
+      "Turqoise dark": {
+        "value": "{Misc.Turqoise-200}",
+        "type": "color"
+      },
+      "Orange dark": {
+        "value": "{Misc.Orange-200}",
+        "type": "color"
+      },
+      "Coral dark": {
+        "value": "{Misc.Coral-200}",
+        "type": "color"
+      },
+      "Purple dark": {
+        "value": "{Misc.Purple-200}",
+        "type": "color"
+      },
+      "Lime dark": {
+        "value": "{Misc.Lime-200}",
+        "type": "color"
+      },
+      "Red dark": {
+        "value": "{Misc.Red-200}",
         "type": "color"
       }
     }
