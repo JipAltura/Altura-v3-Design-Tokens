@@ -220,7 +220,7 @@
         "type": "color"
       },
       "Turqoise-200": {
-        "value": "#25C3D7",
+        "value": "#1EA9BB",
         "type": "color"
       },
       "Orange-50": {
@@ -1598,12 +1598,20 @@
         "value": "{Misc.Blue-100}",
         "type": "color"
       },
+      "Blue dark": {
+        "value": "{Misc.Blue-200}",
+        "type": "color"
+      },
       "Pink light": {
         "value": "{Misc.Pink-50}",
         "type": "color"
       },
       "Pink": {
         "value": "{Misc.Pink-100}",
+        "type": "color"
+      },
+      "Pink dark": {
+        "value": "{Misc.Pink-200}",
         "type": "color"
       },
       "Green light": {
@@ -1614,12 +1622,20 @@
         "value": "{Misc.Green-100}",
         "type": "color"
       },
+      "Green dark": {
+        "value": "{Misc.Green-200}",
+        "type": "color"
+      },
       "Turqoise light": {
         "value": "{Misc.Turqoise-50}",
         "type": "color"
       },
       "Turqoise": {
         "value": "{Misc.Turqoise-100}",
+        "type": "color"
+      },
+      "Turqoise dark": {
+        "value": "{Misc.Turqoise-200}",
         "type": "color"
       },
       "Orange light": {
@@ -1660,22 +1676,6 @@
       },
       "Red": {
         "value": "{Misc.Red-100}",
-        "type": "color"
-      },
-      "Blue dark": {
-        "value": "{Misc.Blue-200}",
-        "type": "color"
-      },
-      "Pink dark": {
-        "value": "{Misc.Pink-200}",
-        "type": "color"
-      },
-      "Green dark": {
-        "value": "{Misc.Green-200}",
-        "type": "color"
-      },
-      "Turqoise dark": {
-        "value": "{Misc.Turqoise-200}",
         "type": "color"
       },
       "Orange dark": {
