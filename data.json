@@ -1646,12 +1646,20 @@
         "value": "{Misc.Orange-100}",
         "type": "color"
       },
+      "Orange dark": {
+        "value": "{Misc.Orange-200}",
+        "type": "color"
+      },
       "Coral light": {
         "value": "{Misc.Coral-50}",
         "type": "color"
       },
       "Coral": {
         "value": "{Misc.Coral-100}",
+        "type": "color"
+      },
+      "Coral dark": {
+        "value": "{Misc.Coral-200}",
         "type": "color"
       },
       "Purple light": {
@@ -1662,6 +1670,10 @@
         "value": "{Misc.Purple-100}",
         "type": "color"
       },
+      "Purple dark": {
+        "value": "{Misc.Purple-200}",
+        "type": "color"
+      },
       "Lime light": {
         "value": "{Misc.Lime-50}",
         "type": "color"
@@ -1670,28 +1682,16 @@
         "value": "{Misc.Lime-100}",
         "type": "color"
       },
+      "Lime dark": {
+        "value": "{Misc.Lime-200}",
+        "type": "color"
+      },
       "Red light": {
         "value": "{Misc.Red-50}",
         "type": "color"
       },
       "Red": {
         "value": "{Misc.Red-100}",
-        "type": "color"
-      },
-      "Orange dark": {
-        "value": "{Misc.Orange-200}",
-        "type": "color"
-      },
-      "Coral dark": {
-        "value": "{Misc.Coral-200}",
-        "type": "color"
-      },
-      "Purple dark": {
-        "value": "{Misc.Purple-200}",
-        "type": "color"
-      },
-      "Lime dark": {
-        "value": "{Misc.Lime-200}",
         "type": "color"
       },
       "Red dark": {
