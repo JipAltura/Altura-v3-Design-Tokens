@@ -990,8 +990,9 @@
   "Altura": {
     "Background": {
       "Default": {
-        "value": "{Shades.25}",
-        "type": "color"
+        "value": "#f7f8fc",
+        "type": "color",
+        "description": "F7F8FC"
       },
       "Hovered": {
         "value": "{Purple.100}",
@@ -1351,7 +1352,7 @@
     "Border": {
       "Border": {
         "Default": {
-          "value": "{Shades.300}",
+          "value": "{Shades.200}",
           "type": "color",
           "description": "3:1 AA Contrast required"
         },
@@ -1360,7 +1361,7 @@
           "type": "color"
         },
         "Hovered": {
-          "value": "{Shades.400}",
+          "value": "{Shades.200}",
           "type": "color"
         },
         "Focus": {
@@ -1368,7 +1369,7 @@
           "type": "color"
         },
         "Depressed": {
-          "value": "{Shades.500}",
+          "value": "{Shades.300}",
           "type": "color"
         },
         "Disabled": {
@@ -1700,5 +1701,11 @@
       }
     }
   },
-  "$themes": []
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "Core",
+      "Altura"
+    ]
+  }
 }
