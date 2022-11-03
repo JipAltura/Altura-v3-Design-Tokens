@@ -1,6 +1,6 @@
 {
   "Core": {
-    "Purple": {
+    "Primary": {
       "25": {
         "value": "hsla({Primary Hue}, 25%, 98%, 1)",
         "type": "color"
@@ -995,15 +995,15 @@
         "description": "F7F8FC"
       },
       "Hovered": {
-        "value": "{Purple.100}",
+        "value": "{Primary.100}",
         "type": "color"
       },
       "Pressed": {
-        "value": "{Purple.100}",
+        "value": "{Primary.100}",
         "type": "color"
       },
       "Selected": {
-        "value": "{Purple.100}",
+        "value": "{Primary.100}",
         "type": "color"
       }
     },
@@ -1036,15 +1036,15 @@
       },
       "Surface Selected": {
         "Default": {
-          "value": "{Purple.100}",
+          "value": "{Primary.100}",
           "type": "color"
         },
         "Hovered": {
-          "value": "{Purple.100}",
+          "value": "{Primary.100}",
           "type": "color"
         },
         "Pressed": {
-          "value": "{Purple.200}",
+          "value": "{Primary.200}",
           "type": "color"
         }
       },
@@ -1112,19 +1112,19 @@
       },
       "Surface Informative": {
         "Default": {
-          "value": "{Purple.100}",
+          "value": "{Primary.100}",
           "type": "color"
         },
         "Subdued": {
-          "value": "{Purple.50}",
+          "value": "{Primary.50}",
           "type": "color"
         },
         "Subdued Hovered": {
-          "value": "{Purple.200}",
+          "value": "{Primary.200}",
           "type": "color"
         },
         "Subdued Pressed": {
-          "value": "{Purple.300}",
+          "value": "{Primary.300}",
           "type": "color"
         }
       },
@@ -1186,7 +1186,7 @@
           "type": "color"
         },
         "Highlight": {
-          "value": "{Purple.500}",
+          "value": "{Primary.500}",
           "type": "color"
         }
       },
@@ -1210,15 +1210,15 @@
       },
       "Text Primary": {
         "Default": {
-          "value": "{Purple.500}",
+          "value": "{Primary.500}",
           "type": "color"
         },
         "hover": {
-          "value": "{Purple.600}",
+          "value": "{Primary.600}",
           "type": "color"
         },
         "Pressed": {
-          "value": "{Purple.700}",
+          "value": "{Primary.700}",
           "type": "color"
         }
       }
@@ -1266,7 +1266,7 @@
           "type": "color"
         },
         "Highlight": {
-          "value": "{Purple.500}",
+          "value": "{Primary.500}",
           "type": "color"
         }
       },
@@ -1290,30 +1290,30 @@
       },
       "Icon Primary": {
         "Default": {
-          "value": "{Purple.500}",
+          "value": "{Primary.500}",
           "type": "color"
         },
         "Hover": {
-          "value": "{Purple.600}",
+          "value": "{Primary.600}",
           "type": "color"
         },
         "Pressed": {
-          "value": "{Purple.700}",
+          "value": "{Primary.700}",
           "type": "color"
         },
         "Pressed Subdued": {
-          "value": "{Purple.300}",
+          "value": "{Primary.300}",
           "type": "color"
         }
       }
     },
     "Interactive": {
       "Default": {
-        "value": "{Purple.500}",
+        "value": "{Primary.500}",
         "type": "color"
       },
       "Hovered": {
-        "value": "{Purple.600}",
+        "value": "{Primary.600}",
         "type": "color"
       },
       "Hovered Subdued": {
@@ -1321,11 +1321,11 @@
         "type": "color"
       },
       "Pressed": {
-        "value": "{Purple.700}",
+        "value": "{Primary.700}",
         "type": "color"
       },
       "Pressed Subdued": {
-        "value": "{Purple.300}",
+        "value": "{Primary.300}",
         "type": "color"
       },
       "Disabled": {
@@ -1365,7 +1365,7 @@
           "type": "color"
         },
         "Focus": {
-          "value": "{Purple.600}",
+          "value": "{Primary.600}",
           "type": "color"
         },
         "Depressed": {
@@ -1413,11 +1413,11 @@
       },
       "Border Highlight": {
         "Default": {
-          "value": "{Purple.300}",
+          "value": "{Primary.300}",
           "type": "color"
         },
         "Subdued": {
-          "value": "{Purple.200}",
+          "value": "{Primary.200}",
           "type": "color"
         }
       }
@@ -1453,19 +1453,19 @@
       },
       "Action Primary": {
         "Default": {
-          "value": "{Purple.600}",
+          "value": "{Primary.600}",
           "type": "color"
         },
         "Hovered": {
-          "value": "{Purple.600}",
+          "value": "{Primary.600}",
           "type": "color"
         },
         "Pressed": {
-          "value": "{Purple.700}",
+          "value": "{Primary.700}",
           "type": "color"
         },
         "Depressed": {
-          "value": "{Purple.800}",
+          "value": "{Primary.800}",
           "type": "color"
         },
         "Disabled": {
@@ -1519,7 +1519,7 @@
           "type": "color"
         },
         "Six": {
-          "value": "{Purple.200}",
+          "value": "{Primary.200}",
           "type": "color"
         }
       },
@@ -1571,7 +1571,7 @@
           "type": "color"
         },
         "Six": {
-          "value": "{Purple.500}",
+          "value": "{Primary.500}",
           "type": "color"
         }
       }
