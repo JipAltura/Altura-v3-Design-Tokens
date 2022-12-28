@@ -1149,6 +1149,28 @@
           "value": "{Shades.50}",
           "type": "color"
         }
+      },
+      "Surface Dark": {
+        "Default": {
+          "value": "{Shades.800}",
+          "type": "color"
+        },
+        "Subdued": {
+          "value": "{Shades.700}",
+          "type": "color"
+        },
+        "Hoverd": {
+          "value": "{Shades.900}",
+          "type": "color"
+        },
+        "Pressed": {
+          "value": "{Shades.900}",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "{Shades.700}",
+          "type": "color"
+        }
       }
     },
     "Text": {
